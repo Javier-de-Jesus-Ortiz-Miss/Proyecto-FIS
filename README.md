@@ -29,7 +29,7 @@ In this document you will find a comparison between the educational plan of the 
 ### What is Software Engineering?
 According to IEEE Standards, 1993: “The application of a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software, that is, the application of engineering to software.”
 
-<a Program Objective id="item2"></a>
+<a Curriculum map id="item2"></a>
 ### Curriculum map
 Lorem ipsum dolor
 
