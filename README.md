@@ -5,8 +5,8 @@ In this document you will find a comparison between the educational plan of the 
 
 ## List of contents
 * [What is Software Engineering?](#item1)
-* [Curriculum map](#item2)
-    * [Program Objective](#item3)
+* [Program Objective](#item2)
+* [Curriculum map](#item3)
     * [Social Environment](#item4)
     * [Math](#item5)
     * [Computer Architecture](#item6)
@@ -29,12 +29,12 @@ In this document you will find a comparison between the educational plan of the 
 ### What is Software Engineering?
 According to IEEE Standards, 1993: “The application of a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software, that is, the application of engineering to software.”
 
-<a Curriculum map id="item2"></a>
-### Curriculum map
+<a Program Objective id="item2"></a>
+### Program Objective
 Lorem ipsum dolor
 
-<a Program Objective id="item3"></a>
-### Program Objective
+<a  Curriculum map id="item3"></a>
+### Curriculum map 
 lorem  ipsum dolor
 
 <a Social Environment id="item4"></a>
