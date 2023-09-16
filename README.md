@@ -73,7 +73,7 @@ lorem  ipsum dolor
 ### Technical knowledge
 Lorem ipsum dolor
 
-<a Technical/soft skills id="item13"></a>
+<a Technical|soft skills id="item13"></a>
 ### Technical/soft skills
 Lorem ipsum dolor
 
@@ -81,7 +81,7 @@ Lorem ipsum dolor
 ### Promotion of IS competencies
 Lorem ipsum dolor
 
-<a Areas of opportunity/disadvantages id="item15"></a>
+<a Areas of opportunity|disadvantages id="item15"></a>
 ### Areas of opportunity/disadvantages
 Lorem ipsum dolor
 
