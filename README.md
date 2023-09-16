@@ -31,15 +31,47 @@ According to IEEE Standards, 1993: “The application of a systematic, disciplin
 
 <a Program Objective id="item2"></a>
 ### Program Objective
-Lorem ipsum dolor
+
+#### UADY
+Upon completion of the Degree in Software Engineering, the graduate will have knowledge about:
+Upon completion of Software Engineering, the graduate will have knowledge about:
+
+1. Methodologies and techniques for small and large scale software development, such as requirements development, human-computer interaction, design, construction, evolution, testing and those related to administration, such as quality assurance and administration of projects.
+2. Computer sciences, which allow the viable application of algorithms, data structures and programming languages in software development.
+3. Tools for the specification and modeling of software systems, as well as for the evaluation of software processes and products for their improvement.
+4. Administration and optimization of time and cost of resources involved in software development.
+5. The social environment to describe the social, political, ecological and ethical factors related to technological development and professional performance.
+6. Research areas related to Software Engineering.
+
+#### UPQROO
+The Software Engineer graduated from UPQROO has comprehensive training based on competencies, with knowledge, attitudes, skills and abilities to automate processes through the design, development or updating of software systems, which allows him to interact in different fields of action. and perform better in the public or private company, institution or organization in the industrial, commercial and service sectors; in the areas of:
+
+1. Design and development of quality custom and/or generic software.
+2. Management, administration and implementation of innovation projects in the software area.
+3. Integration of new software solutions to modern services such as electronic commerce.
+4. Design and creation of databases and applications for their manipulation.
+5. Technical and strategic support for the information technology infrastructure.
+6. Research in the field of development and reengineering of information technologies.
 
 <a  Curriculum map id="item3"></a>
 ### Curriculum map 
-lorem  ipsum dolor
+We will see more details in the following sections but you can see the full curriculum map on the next websites:
+* [UADY](https://www.matematicas.uady.mx/files/documents/programas/lis/Malla-CurricularLIS-MEFI.pdf)
+* [UPQROO](https://upqroo.edu.mx/ingenieria-en-software/)
 
 <a Social Environment id="item4"></a>
 ### Social Environment
-lorem  ipsum dolor
+
+| UADY                             | UPQROO                                         |
+|----------------------------------|------------------------------------------------|
+| University Social Responsibility | Emotional intelligence and conflict management |
+| Mayan culture                    | Professional ethics                            |
+|                                  | Human development and values                   |
+|                                  | Leadership of high performance teams           |
+
+
+ University Social Responsibility
+ Mayan culture
 
 <a Math id="item5"></a>
 ### Math
@@ -103,4 +135,10 @@ Lorem ipsum dolor
 
 <a References id="item20"></a>
 ### References
-Lorem ipsum dolor
+[Definition of Software Engineering](https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf)
+
+[Graduation Profile UADY](https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software)
+
+[Home UPQROO](https://upqroo.edu.mx/ingenieria-en-software/)
+
+[]()
