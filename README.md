@@ -55,7 +55,7 @@ lorem  ipsum dolor
 ### Human – Machine Interaction
 lorem  ipsum dolor
 
-##Soft skills comparision 
+## Soft skills comparision
 In Uady´s curriculum soft skills are stated as graduation skills, specifically, in each of the four competency areas there is a section that describes different communication, creative and emotional abilities in an unambiguous and understandable manner. 
 the abilities are developed trough each of the classes, with an emphasis on developing soft skills through teamwork and sections where you must communicate your ideas to the class.
 
