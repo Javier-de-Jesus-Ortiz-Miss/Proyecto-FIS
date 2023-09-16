@@ -5,8 +5,8 @@ In this document you will find a comparison between the educational plan of the 
 
 ## List of contents
 * [What is Software Engineering?](#item1)
-* [Curriculum map](#item2)
-    * [Program Objective](#item3)
+* [Program Objective](#item2)
+* [Curriculum map](#item3)
     * [Social Environment](#item4)
     * [Math](#item5)
     * [Computer Architecture](#item6)
