@@ -119,22 +119,39 @@ Lorem ipsum dolor
 
 <a Areas of opportunity or disadvantages id="item15"></a>
 ### Areas of opportunity/disadvantages
-Lorem ipsum dolor
+
+#### UADY
+Some of the examples of areas of concentration that UADY offers in the student guide are:
+* Software Process Improvement
+* Programming on the web
+* Videogames
+* Educational informatics
+
+#### UPQROO
+The UPQROO does not specify in its program the advantages in technical knowledge with respect to a reference framework. 
 
 <a Costs id="item16"></a>
 ### Costs
-Lorem ipsum dolor
+
+| UADY                                                                                                  | UPQROO                                                                          |
+|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| is a public and autonomous university institution, located in the city of Mérida, Yucatán, in Mexico. | Founded in 2010, UPQROO is a public institution that provides higher education. |
 
 <a Relationship with the industry id="item17"></a>
 ### Relationship with the industry
-Lorem ipsum dolor
+
+#### UADY
+It has a job bank aimed at supporting UADY university students, whether they are students who are about to carry out their professional internships and graduates who are in the process of finding a job.
+
+#### UPQROO
+It has a job board aimed at university graduates and a stay section for students of the institution.
 
 <a Certifications id="item18"></a>
 ### Certifications
 Lorem ipsum dolor
 
 <a Specializations id="item19"></a>
-### 
+### Specializations
 Lorem ipsum dolor
 
 <a References id="item20"></a>
@@ -145,4 +162,10 @@ Lorem ipsum dolor
 
 [Home UPQROO](https://upqroo.edu.mx/ingenieria-en-software/)
 
-[]()
+[UADY Wikipedia](https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Yucat%C3%A1n)
+
+[UPQROO About us](https://upqroo.edu.mx/sobre-nosotros/)
+
+[UADY Job Board](https://uady.mx/vinculacion/bolsa-trabajo)
+
+[UPQROO Business management](https://upqroo.edu.mx/gestion-empresarial/)
