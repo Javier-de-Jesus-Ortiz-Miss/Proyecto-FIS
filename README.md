@@ -27,7 +27,9 @@ In this document you will find a comparison between the educational plan of the 
 
 <a What is Software Engineering id="item1"></a>
 ### What is Software Engineering?
-According to IEEE Standards, 1993: “The application of a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software, that is, the application of engineering to software.”
+According to IEEE Standards, 1993: “The application of a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software, that is, the application of engineering to software".
+
+---
 
 <a Program Objective id="item2"></a>
 ### Program Objective
@@ -52,13 +54,13 @@ The Software Engineer graduated from UPQROO has comprehensive training based on 
 4. Design and creation of databases and applications for their manipulation.
 5. Technical and strategic support for the information technology infrastructure.
 6. Research in the field of development and reengineering of information technologies.
-
+---
 <a  Curriculum map id="item3"></a>
 ### Curriculum map 
 We will see more details in the following sections but you can see the full curriculum map on the next websites:
 * [UADY](https://www.matematicas.uady.mx/files/documents/programas/lis/Malla-CurricularLIS-MEFI.pdf)
 * [UPQROO](https://upqroo.edu.mx/ingenieria-en-software/)
-
+---
 <a Social Environment id="item4"></a>
 ### Social Environment
 
@@ -69,10 +71,7 @@ We will see more details in the following sections but you can see the full curr
 |                                  | Human development and values                   |
 |                                  | Leadership of high performance teams           |
 
-
- University Social Responsibility
- Mayan culture
-
+---
 <a Math id="item5"></a>
 ### Math
 lorem  ipsum dolor
@@ -99,24 +98,33 @@ lorem  ipsum dolor
 
 <a Human Machine Interaction id="item11"></a>
 ### Human – Machine Interaction
-lorem  ipsum dolor
 
+
+---
 <a Technical knowledge id="item12"></a>
 ### Technical knowledge
-Lorem ipsum dolor
+The curriculum of UPQRoo spans a duration of 40 months and includes a wide variety of courses that range from basic fundamentals to advanced areas of computer science. Notably, it stands out for the inclusion of courses related to personal and professional skills, such as emotional intelligence, cognitive abilities, leadership, and professional ethics. From a technical perspective, the curriculum covers fundamental aspects such as mathematics, algorithms, data structures, object-oriented programming, software architecture, networks, and operating systems. It also incorporates emerging and relevant areas like artificial intelligence, information security, mobile programming, and software financial analysis.
 
+On the other hand, the curriculum at UADY has a duration of 54 months and encompasses a broad spectrum of technical knowledge in computer science. It focuses on practical and technical aspects, including algorithmics, data structures, computer architecture and organization, operating systems, and web application development. Additionally, it addresses crucial topics related to software quality, human-computer interaction, software metrics, quality assurance, and project management.
+
+Both universities provide a strong foundation in computer science, covering key aspects such as algorithms, data structures, programming, and software architecture. UPQRoo distinguishes itself by including courses related to personal and professional skills, in addition to addressing emerging topics like artificial intelligence and information security. Conversely, UADY concentrates on essential technical and practical aspects, adding value through courses related to software quality and human-computer interaction.
+
+
+---
 <a Technical or soft skills id="item13"></a>
 ### Technical/soft skills
 In Uady´s curriculum soft skills are stated as graduation skills, specifically, in each of the four competency areas there is a section that describes different communication, creative and emotional abilities in an unambiguous and understandable manner. the abilities are developed trough each of the classes, with an emphasis on developing soft skills through teamwork and sections where you must communicate your ideas to the class.
 
 UPQROO´s program doesn´t include a clear description of the desired soft skills, but there are many different classes that are dedicated to the developing soft skills like “EXPRESIÓN ORAL Y ESCRITA I”, “DESARROLLO HUMANO Y VALORES”, “INTELIGENCIA EMOCIONAL Y MANEJO DE CONFLICTOS”, “HABILIDADES COGNITIVAS Y CREATIVIDAD” etc.
 
-We personally think that Uady´s focus is more adequate since it resembles the real-world use of soft skills more where you have to apply them In different scenarios and projects, as well as being more manageable and constant trough the duration of the program
+We personally think that Uady´s focus is more adequate since it resembles the real-world use of soft skills more where you have to apply them In different scenarios and projects, as well as being more manageable and constant trough the duration of the program.
 
+---
 <a Promotion of IS competencies id="item14"></a>
 ### Promotion of IS competencies
 Lorem ipsum dolor
-
+d
+---
 <a Areas of opportunity or disadvantages id="item15"></a>
 ### Areas of opportunity/disadvantages
 
@@ -130,6 +138,7 @@ Some of the examples of areas of concentration that UADY offers in the student g
 #### UPQROO
 The UPQROO does not specify in its program the advantages in technical knowledge with respect to a reference framework. 
 
+---
 <a Costs id="item16"></a>
 ### Costs
 
@@ -137,6 +146,7 @@ The UPQROO does not specify in its program the advantages in technical knowledge
 |-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | is a public and autonomous university institution, located in the city of Mérida, Yucatán, in Mexico. | Founded in 2010, UPQROO is a public institution that provides higher education. |
 
+---
 <a Relationship with the industry id="item17"></a>
 ### Relationship with the industry
 
@@ -146,14 +156,17 @@ It has a job bank aimed at supporting UADY university students, whether they are
 #### UPQROO
 It has a job board aimed at university graduates and a stay section for students of the institution.
 
+---
 <a Certifications id="item18"></a>
 ### Certifications
 Lorem ipsum dolor
 
+---
 <a Specializations id="item19"></a>
 ### Specializations
 Lorem ipsum dolor
 
+---
 <a References id="item20"></a>
 ### References
 [Definition of Software Engineering](https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf)
