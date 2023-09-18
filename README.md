@@ -35,7 +35,7 @@ Lorem ipsum dolor
 
 <a  Curriculum map id="item3"></a>
 ### Curriculum map 
-The Autonomous University of Yucatan (UADY) has 37 mandatory subjects during the 9 semesters and the Polytechnic University of Quintana Room (UPQROO) has 51 subjects during a 10 four-month periods related to the areas of knowledge of ANIEI
+The Autonomous University of Yucatan (UADY) has 37 mandatory subjects in its 9 semesters and the Polytechnic University of Quintana Room (UPQROO) has 51 subjects in its 10 four-month periods related to the areas of knowledge of ANIEI.
 ![Graph comparing areas of knowledge according to ANIEI with UADY and UPQROO](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/112908347/7ee13d51-ad58-4928-bc86-1ce27ee85eb9)
 
 
