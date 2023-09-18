@@ -169,7 +169,7 @@ Lorem ipsum dolor
 ---
 <a References id="item20"></a>
 ### References
-[Definition of Software Engineering](https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf)
+Sáez, F. (s. f.). Ingeniería de software, factores económicos y humanos. Dit. [https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf](https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf)
 
 [Graduation Profile UADY](https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software)
 
