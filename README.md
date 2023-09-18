@@ -98,7 +98,8 @@ Lorem ipsum dolor
 Lorem ipsum dolor
 
 <a Specializations id="item19"></a>
-### At the Autonomous University of Yucatán (UADY), a graduate must have a profile of a respectful and entrepreneurial leader. So, some of the specializations that a software engineer can choose are:
+### Specializations
+At the Autonomous University of Yucatán (UADY), a graduate must have a profile of a respectful and entrepreneurial leader. So, some of the specializations that a software engineer can choose are:
 •	Artificial Intelligence and Machine Learning: Focusing on developing software systems that can learn and make decisions, simulating human intelligence.
 •	Data Science and Big Data: Emphasizing the analysis and interpretation of large datasets to extract valuable insights.
 •	Software Architecture: Emphasizing the design and structure of software systems for scalability and maintainability.
