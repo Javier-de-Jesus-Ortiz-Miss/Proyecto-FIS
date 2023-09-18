@@ -214,7 +214,9 @@ Lorem ipsum dolor
 ---
 <a Specializations id="item19"></a>
 ### Specializations
-Lorem ipsum dolor
+At the Autonomous University of Yucatán (UADY), a graduate must have a profile of a respectful and entrepreneurial leader. So, some of the specializations that a software engineer can choose are: • Artificial Intelligence and Machine Learning: Focusing on developing software systems that can learn and make decisions, simulating human intelligence. • Data Science and Big Data: Emphasizing the analysis and interpretation of large datasets to extract valuable insights. • Software Architecture: Emphasizing the design and structure of software systems for scalability and maintainability. • Software Testing and Quality Assurance: Specializing in ensuring the quality and reliability of software through testing and quality assurance processes.
+
+The Software Engineer graduated from UPQROO must have the skill to automate processes through the design, development or updating of software systems, which allows him to specialize in the areas of: • Design and development of quality custom and/or generic software. • Management, administration and implementation of innovation projects in the software area. • Integration of new software solutions to modern services such as electronic commerce. • Design and creation of databases and applications for their manipulation. Among many others.
 
 ---
 <a References id="item20"></a>
