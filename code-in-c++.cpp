@@ -1,1 +1,0 @@
-//Regrese, pero no como antes, no supe como xd
