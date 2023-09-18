@@ -57,48 +57,98 @@ The Software Engineer graduated from UPQROO has comprehensive training based on 
 ---
 <a  Curriculum map id="item3"></a>
 ### Curriculum map 
-We will see more details in the following sections but you can see the full curriculum map on the next websites:
-* [UADY](https://www.matematicas.uady.mx/files/documents/programas/lis/Malla-CurricularLIS-MEFI.pdf)
-* [UPQROO](https://upqroo.edu.mx/ingenieria-en-software/)
----
+The Autonomous University of Yucatan (UADY) has 37 mandatory subjects in its 9 semesters and the Polytechnic University of Quintana Room (UPQROO) has 51 subjects in its 10 four-month periods related to the areas of knowledge of ANIEI.
+![Graph comparing areas of knowledge according to ANIEI with UADY and UPQROO](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/112908347/7ee13d51-ad58-4928-bc86-1ce27ee85eb9)
+
+
 <a Social Environment id="item4"></a>
 ### Social Environment
 
-| UADY                             | UPQROO                                         |
-|----------------------------------|------------------------------------------------|
-| University Social Responsibility | Emotional intelligence and conflict management |
-| Mayan culture                    | Professional ethics                            |
-|                                  | Human development and values                   |
-|                                  | Leadership of high performance teams           |
-
----
+|                 UADY                 |                     UPQROO                   |
+|--------------------------------------|----------------------------------------------|
+| Responsabilidad Social Universitaria |             Expresión Oral y Escrita         |
+|             Cultura Maya             |           Desarrollo Humano y Valores        |
+|       Innovación Tecnológica         | Inteligencia Emocional y Manejo de Conflicto |
+|      Administración de Proyectos I   |      Habilidades Cognitivas y Creatividad    |
+|      Administración de Proyectos II  |                 Ética Profesional            | 
+|                                      |              Habilidades Gerenciales         |
+|                                      |     Liderazgo de Equipos de Alto Desempeño   |
+|                                      |        Análisis Financiero de Software       |
+|                                      |    Administración de Proyectos de Software   |
+|                                      |          Expresión Oral y Escrita            |
 <a Math id="item5"></a>
 ### Math
-lorem  ipsum dolor
+|            UADY          |              UPQROO            |
+|--------------------------|--------------------------------|
+|      Álgera Intermedia   |         Álgebra Lineal         |
+|    Geometría Analítica   |     Matemáticas Discretas      |
+|      Álgebra Superior    |      Cálculo Diferencial       |
+|    Cálculo Diferencial   |       Cálculo Integral         |
+|   Matemáticas Discretas  | Matemáticas para Ingeniería I  |
+|      Álgebra Lineal      | Matemáticas para Ingeniería II |
+|     Cálculo Integral     |   Probabilidad y Estadística   |
+| Teoría de la Computación |       Lenguajes y Autómatas    |
+|       Probabilidad       |                                |
+|  Inferencia Estadística  |                                |
 
 <a Computer Architecture id="item6"></a>
 ### Computer Architecture
-lorem  ipsum dolor
+|                    UADY                     |             UPQROO           |
+|---------------------------------------------|------------------------------|
+| Arquitectura y Organización de Computadoras |   Electricidad y Magnetismo  |
+|                                             |       Sistemas Digitales     |
+|                                             | Arquitectura de Computadoras |
 
 <a Networks id="item7"></a>
 ### Networks
-lorem  ipsum dolor
+|                 UADY              |         UPQROO       |
+|-----------------------------------|----------------------|
+| Redes y Seguridad de Computadoras | Fundamentos de Redes |
+|        Sistemas Distribuidos      |         Redes        |
 
 <a Base Software id="item8"></a>
 ### Base Software
-lorem  ipsum dolor
+|         UADY        |            UPQROO          |
+|---------------------|----------------------------|
+| Sistemas Operativos |     Sistemas Operativos    |
+|                     | Compiladores e Intérpretes |
 
 <a Programming and Software Engineering id="item9"></a>
 ### Programming and Software Engineering
-lorem  ipsum dolor
+|                    UADY                   |                    UPQROO                  |
+|-------------------------------------------|--------------------------------------------|
+|                 Algoritmia                |                  Algoritmos                |
+|    Fundamentos de Ingeniería en Software  |       Programación Orientada a Objetos     |
+|           Programación Estructurada       | Ingeniería de Software Orientada a Objetos |
+|       Programación Orientada a Objetos    |    Procesos de Desarrollo de Software      |
+|     Teoría de Lenguajes de Programación   |             Programación Visual            |
+|         Arquitecturas de Software         |              Programación Web              |
+|         Construcción de Software          |         Programación Cliente/Servidor      |
+|           Métricas de Software            |           Arquitectura de Software         |
+| Aseguramiento de la Calidad del Software  |             Calidad de Software            |
+| Experimentación en Ingeniería de Software |           Programación Concurrente         |
+|   Verificación y Validación de Software   |             Pruebas de Software            |
+|        Mantenimiento de Software          |           Mantenimiento de Software        |
+|          Requisitos de Software           |          Programación para Móviles I       |
+|      Desarrollo de Aplicaciones Web       |          Programación para Móviles II      |
 
 <a Information Processing id="item10"></a>
 ### Information Processing
-lorem  ipsum dolor
+|           UADY          |              UPQROO           |
+|-------------------------|-------------------------------|
+|   Estructura de Datos   |       Estructura de Datos     |
+| Diseño de Base de Datos | Estructura de Datos Avanzada  | 
+| Requisitos de Software  | Fundamentos de Bases de Datos |
+|                         |          Bases de Datos       |
+|                         |    Seguridad de Información   |
 
 <a Human Machine Interaction id="item11"></a>
 ### Human – Machine Interaction
-
+|              UADY              |            UPQROO           |
+|--------------------------------|-----------------------------|
+|       Diseño de Software       |     Diseño de Interfaces    |
+| Interacción Humano Computadora |   Inteligencia Artificial   |
+|                                | Multimedia y Diseño digital |
 
 ---
 <a Technical knowledge id="item12"></a>
