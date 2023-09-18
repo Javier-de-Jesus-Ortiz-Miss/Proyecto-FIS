@@ -35,7 +35,9 @@ Lorem ipsum dolor
 
 <a  Curriculum map id="item3"></a>
 ### Curriculum map 
-lorem  ipsum dolor
+
+![Graph comparing areas of knowledge according to ANIEI with UADY and UPQROO](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/112908347/7ee13d51-ad58-4928-bc86-1ce27ee85eb9)
+
 
 <a Social Environment id="item4"></a>
 ### Social Environment
