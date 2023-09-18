@@ -52,7 +52,7 @@ lorem  ipsum dolor
 || Expresión Oral y Escrita |
 <a Math id="item5"></a>
 ### Math
-| UADY | UPQROO |
+ UADY | UPQROO 
 | Álgera Intermedia | Álgebra Lineal |
 | Geometría Analítica | Matemáticas Discretas |
 | Álgebra Superior | Cálculo Diferencial |
