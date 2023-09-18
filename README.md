@@ -105,6 +105,8 @@ lorem  ipsum dolor
 | Experimentación en Ingeniería de Software |           Programación Concurrente         |
 |   Verificación y Validación de Software   |             Pruebas de Software            |
 |        Mantenimiento de Software          |           Mantenimiento de Software        |
+|          Requisitos de Software           |          Programación para Móviles I       |
+|      Desarrollo de Aplicaciones Web       |          Programación para Móviles II      |
 
 <a Information Processing id="item10"></a>
 ### Information Processing
