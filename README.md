@@ -57,13 +57,13 @@ The Software Engineer graduated from UPQROO has comprehensive training based on 
 ---
 <a  Curriculum map id="item3"></a>
 ### Curriculum map 
+
 The Autonomous University of Yucatan (UADY) has 37 mandatory subjects in its 9 semesters and the Polytechnic University of Quintana Room (UPQROO) has 51 subjects in its 10 four-month periods related to the areas of knowledge of ANIEI.
 ![Graph comparing areas of knowledge according to ANIEI with UADY and UPQROO](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/112908347/7ee13d51-ad58-4928-bc86-1ce27ee85eb9)
 
 
 <a Social Environment id="item4"></a>
 ### Social Environment
-
 |                 UADY                 |                     UPQROO                   |
 |--------------------------------------|----------------------------------------------|
 | Responsabilidad Social Universitaria |             Expresión Oral y Escrita         |
@@ -169,11 +169,6 @@ UPQROO´s program doesn´t include a clear description of the desired soft skill
 
 We personally think that Uady´s focus is more adequate since it resembles the real-world use of soft skills more where you have to apply them In different scenarios and projects, as well as being more manageable and constant trough the duration of the program.
 
----
-<a Promotion of IS competencies id="item14"></a>
-### Promotion of IS competencies
-Lorem ipsum dolor
-d
 ---
 <a Areas of opportunity or disadvantages id="item15"></a>
 ### Areas of opportunity/disadvantages
