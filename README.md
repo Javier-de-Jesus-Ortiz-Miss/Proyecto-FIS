@@ -171,14 +171,14 @@ Lorem ipsum dolor
 ### References
 Sáez, F. (s. f.). Ingeniería de software, factores económicos y humanos. Dit. [https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf](https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf)
 
-[Graduation Profile UADY](https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software)
+Universidad Autónoma de Yucatán. (s. f.). Perfil de Egreso - Licenciatura en Ingeniería de Software. [https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software](https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software)
 
-[Home UPQROO](https://upqroo.edu.mx/ingenieria-en-software/)
+Universidad Politécnica de Quintana Roo. (s.f). Ingeniería de Software [https://upqroo.edu.mx/ingenieria-en-software/](https://upqroo.edu.mx/ingenieria-en-software/)
 
-[UADY Wikipedia](https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Yucat%C3%A1n)
+CONAIC. (s.f). Consejo Nacional de Acreditación en Informática y Computación A.C. [https://conaic.net/acreditados.html](https://conaic.net/acreditados.html)
 
-[UPQROO About us](https://upqroo.edu.mx/sobre-nosotros/)
+Universidad Politécnica de Quintana Roo. (s.f). Sobre nosotros [https://upqroo.edu.mx/sobre-nosotros/](https://upqroo.edu.mx/sobre-nosotros/)
 
-[UADY Job Board](https://uady.mx/vinculacion/bolsa-trabajo)
+Universidad Autónoma de Yucatán. (s.f). Bolsa de trabajo [https://uady.mx/vinculacion/bolsa-trabajo](https://uady.mx/vinculacion/bolsa-trabajo)
 
-[UPQROO Business management](https://upqroo.edu.mx/gestion-empresarial/)
+Universidad Politécnica de Quintana Roo. (s.f). Gestión empresarial. [https://upqroo.edu.mx/gestion-empresarial/](https://upqroo.edu.mx/gestion-empresarial/)
