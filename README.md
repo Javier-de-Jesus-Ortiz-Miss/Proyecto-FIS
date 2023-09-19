@@ -171,14 +171,14 @@ Lorem ipsum dolor
 ### References
 Sáez, F. (s. f.). Ingeniería de software, factores económicos y humanos. Dit. [https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf](https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf)
 
-Universidad Autónoma de Yucatán. (s. f.). Perfil de Egreso - Licenciatura en Ingeniería de Software. [https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software](https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software)
+Universidad Autónoma de Yucatán. (s. f.). Perfil de Egreso - Licenciatura en Ingeniería de Software. Facultad de Matemáticas [https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software](https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software)
 
-Universidad Politécnica de Quintana Roo. (s.f). Ingeniería de Software [https://upqroo.edu.mx/ingenieria-en-software/](https://upqroo.edu.mx/ingenieria-en-software/)
+Universidad Politécnica de Quintana Roo. (s. f.). Ingeniería de Software. UPQROO [https://upqroo.edu.mx/ingenieria-en-software/](https://upqroo.edu.mx/ingenieria-en-software/)
 
-CONAIC. (s.f). Consejo Nacional de Acreditación en Informática y Computación A.C. [https://conaic.net/acreditados.html](https://conaic.net/acreditados.html)
+CONAIC. (s. f.). Consejo Nacional de Acreditación en Informática y Computación A.C.  [https://conaic.net/acreditados.html](https://conaic.net/acreditados.html)
 
-Universidad Politécnica de Quintana Roo. (s.f). Sobre nosotros [https://upqroo.edu.mx/sobre-nosotros/](https://upqroo.edu.mx/sobre-nosotros/)
+Universidad Politécnica de Quintana Roo. (s. f.). Sobre nosotros. UPQROO [https://upqroo.edu.mx/sobre-nosotros/](https://upqroo.edu.mx/sobre-nosotros/)
 
-Universidad Autónoma de Yucatán. (s.f). Bolsa de trabajo [https://uady.mx/vinculacion/bolsa-trabajo](https://uady.mx/vinculacion/bolsa-trabajo)
+Universidad Autónoma de Yucatán. (s. f.). Bolsa de trabajo. [https://uady.mx/vinculacion/bolsa-trabajo](https://uady.mx/vinculacion/bolsa-trabajo)
 
-Universidad Politécnica de Quintana Roo. (s.f). Gestión empresarial. [https://upqroo.edu.mx/gestion-empresarial/](https://upqroo.edu.mx/gestion-empresarial/)
+Universidad Politécnica de Quintana Roo. (s. f.). Gestión empresarial. UPQROO [https://upqroo.edu.mx/gestion-empresarial/](https://upqroo.edu.mx/gestion-empresarial/)
