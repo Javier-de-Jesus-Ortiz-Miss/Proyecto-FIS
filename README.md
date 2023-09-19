@@ -204,7 +204,9 @@ It has a job board aimed at university graduates and a stay section for students
 ---
 <a Certifications id="item18"></a>
 ### Certifications
-Lorem ipsum dolor
+| UADY                                                                                                  | UPQROO                                                                          |
+|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| CONAIC 2019-2024                                                                                      | CONAIC  End Date. 27/01/2026                                                    |
 
 ---
 <a Specializations id="item19"></a>
