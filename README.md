@@ -57,48 +57,98 @@ The Software Engineer graduated from UPQROO has comprehensive training based on 
 ---
 <a  Curriculum map id="item3"></a>
 ### Curriculum map 
-We will see more details in the following sections but you can see the full curriculum map on the next websites:
-* [UADY](https://www.matematicas.uady.mx/files/documents/programas/lis/Malla-CurricularLIS-MEFI.pdf)
-* [UPQROO](https://upqroo.edu.mx/ingenieria-en-software/)
----
+
+The Autonomous University of Yucatan (UADY) has 37 mandatory subjects in its 9 semesters and the Polytechnic University of Quintana Room (UPQROO) has 51 subjects in its 10 four-month periods related to the areas of knowledge of ANIEI.
+![Graph comparing areas of knowledge according to ANIEI with UADY and UPQROO](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/112908347/7ee13d51-ad58-4928-bc86-1ce27ee85eb9)
+
+
 <a Social Environment id="item4"></a>
 ### Social Environment
-
-| UADY                             | UPQROO                                         |
-|----------------------------------|------------------------------------------------|
-| University Social Responsibility | Emotional intelligence and conflict management |
-| Mayan culture                    | Professional ethics                            |
-|                                  | Human development and values                   |
-|                                  | Leadership of high performance teams           |
-
----
+|                 UADY                 |                     UPQROO                   |
+|--------------------------------------|----------------------------------------------|
+| Responsabilidad Social Universitaria |             Expresión Oral y Escrita         |
+|             Cultura Maya             |           Desarrollo Humano y Valores        |
+|       Innovación Tecnológica         | Inteligencia Emocional y Manejo de Conflicto |
+|      Administración de Proyectos I   |      Habilidades Cognitivas y Creatividad    |
+|      Administración de Proyectos II  |                 Ética Profesional            | 
+|                                      |              Habilidades Gerenciales         |
+|                                      |     Liderazgo de Equipos de Alto Desempeño   |
+|                                      |        Análisis Financiero de Software       |
+|                                      |    Administración de Proyectos de Software   |
+|                                      |          Expresión Oral y Escrita            |
 <a Math id="item5"></a>
 ### Math
-lorem  ipsum dolor
+|            UADY          |              UPQROO            |
+|--------------------------|--------------------------------|
+|      Álgera Intermedia   |         Álgebra Lineal         |
+|    Geometría Analítica   |     Matemáticas Discretas      |
+|      Álgebra Superior    |      Cálculo Diferencial       |
+|    Cálculo Diferencial   |       Cálculo Integral         |
+|   Matemáticas Discretas  | Matemáticas para Ingeniería I  |
+|      Álgebra Lineal      | Matemáticas para Ingeniería II |
+|     Cálculo Integral     |   Probabilidad y Estadística   |
+| Teoría de la Computación |       Lenguajes y Autómatas    |
+|       Probabilidad       |                                |
+|  Inferencia Estadística  |                                |
 
 <a Computer Architecture id="item6"></a>
 ### Computer Architecture
-lorem  ipsum dolor
+|                    UADY                     |             UPQROO           |
+|---------------------------------------------|------------------------------|
+| Arquitectura y Organización de Computadoras |   Electricidad y Magnetismo  |
+|                                             |       Sistemas Digitales     |
+|                                             | Arquitectura de Computadoras |
 
 <a Networks id="item7"></a>
 ### Networks
-lorem  ipsum dolor
+|                 UADY              |         UPQROO       |
+|-----------------------------------|----------------------|
+| Redes y Seguridad de Computadoras | Fundamentos de Redes |
+|        Sistemas Distribuidos      |         Redes        |
 
 <a Base Software id="item8"></a>
 ### Base Software
-lorem  ipsum dolor
+|         UADY        |            UPQROO          |
+|---------------------|----------------------------|
+| Sistemas Operativos |     Sistemas Operativos    |
+|                     | Compiladores e Intérpretes |
 
 <a Programming and Software Engineering id="item9"></a>
 ### Programming and Software Engineering
-lorem  ipsum dolor
+|                    UADY                   |                    UPQROO                  |
+|-------------------------------------------|--------------------------------------------|
+|                 Algoritmia                |                  Algoritmos                |
+|    Fundamentos de Ingeniería en Software  |       Programación Orientada a Objetos     |
+|           Programación Estructurada       | Ingeniería de Software Orientada a Objetos |
+|       Programación Orientada a Objetos    |    Procesos de Desarrollo de Software      |
+|     Teoría de Lenguajes de Programación   |             Programación Visual            |
+|         Arquitecturas de Software         |              Programación Web              |
+|         Construcción de Software          |         Programación Cliente/Servidor      |
+|           Métricas de Software            |           Arquitectura de Software         |
+| Aseguramiento de la Calidad del Software  |             Calidad de Software            |
+| Experimentación en Ingeniería de Software |           Programación Concurrente         |
+|   Verificación y Validación de Software   |             Pruebas de Software            |
+|        Mantenimiento de Software          |           Mantenimiento de Software        |
+|          Requisitos de Software           |          Programación para Móviles I       |
+|      Desarrollo de Aplicaciones Web       |          Programación para Móviles II      |
 
 <a Information Processing id="item10"></a>
 ### Information Processing
-lorem  ipsum dolor
+|           UADY          |              UPQROO           |
+|-------------------------|-------------------------------|
+|   Estructura de Datos   |       Estructura de Datos     |
+| Diseño de Base de Datos | Estructura de Datos Avanzada  | 
+| Requisitos de Software  | Fundamentos de Bases de Datos |
+|                         |          Bases de Datos       |
+|                         |    Seguridad de Información   |
 
 <a Human Machine Interaction id="item11"></a>
 ### Human – Machine Interaction
-
+|              UADY              |            UPQROO           |
+|--------------------------------|-----------------------------|
+|       Diseño de Software       |     Diseño de Interfaces    |
+| Interacción Humano Computadora |   Inteligencia Artificial   |
+|                                | Multimedia y Diseño digital |
 
 ---
 <a Technical knowledge id="item12"></a>
@@ -119,11 +169,6 @@ UPQROO´s program doesn´t include a clear description of the desired soft skill
 
 We personally think that Uady´s focus is more adequate since it resembles the real-world use of soft skills more where you have to apply them In different scenarios and projects, as well as being more manageable and constant trough the duration of the program.
 
----
-<a Promotion of IS competencies id="item14"></a>
-### Promotion of IS competencies
-Lorem ipsum dolor
-d
 ---
 <a Areas of opportunity or disadvantages id="item15"></a>
 ### Areas of opportunity/disadvantages
@@ -159,26 +204,45 @@ It has a job board aimed at university graduates and a stay section for students
 ---
 <a Certifications id="item18"></a>
 ### Certifications
-Lorem ipsum dolor
+| UADY                                                                                                  | UPQROO                                                                          |
+|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| CONAIC 2019-2024                                                                                      | CONAIC  End Date. 27/01/2026                                                    |
 
 ---
 <a Specializations id="item19"></a>
 ### Specializations
-Lorem ipsum dolor
+
+At the Autonomous University of Yucatán (UADY), a graduate must have a profile of a respectful and entrepreneurial leader. So, some of the specializations that a software engineer can choose are: • Artificial Intelligence and Machine Learning: Focusing on developing software systems that can learn and make decisions, simulating human intelligence. • Data Science and Big Data: Emphasizing the analysis and interpretation of large datasets to extract valuable insights. • Software Architecture: Emphasizing the design and structure of software systems for scalability and maintainability. • Software Testing and Quality Assurance: Specializing in ensuring the quality and reliability of software through testing and quality assurance processes.
+
+The Software Engineer graduated from UPQROO must have the skill to automate processes through the design, development or updating of software systems, which allows him to specialize in the areas of: • Design and development of quality custom and/or generic software. • Management, administration and implementation of innovation projects in the software area. • Integration of new software solutions to modern services such as electronic commerce. • Design and creation of databases and applications for their manipulation. Among many others.
+=======
+At the Autonomous University of Yucatán (UADY), a graduate must have a profile of a respectful and entrepreneurial leader. So, some of the specializations that a software engineer can choose are:
+•	Artificial Intelligence and Machine Learning: Focusing on developing software systems that can learn and make decisions, simulating human intelligence.
+•	Data Science and Big Data: Emphasizing the analysis and interpretation of large datasets to extract valuable insights.
+•	Software Architecture: Emphasizing the design and structure of software systems for scalability and maintainability.
+•	Software Testing and Quality Assurance: Specializing in ensuring the quality and reliability of software through testing and quality assurance processes.
+
+The Software Engineer graduated from UPQROO must have the skill to automate processes through the design, development or updating of software systems, which allows him to specialize in the areas of:
+• Design and development of quality custom and/or generic software.
+• Management, administration and implementation of innovation projects in the software area.
+• Integration of new software solutions to modern services such as electronic commerce.
+• Design and creation of databases and applications for their manipulation.
+Among many others.
+
 
 ---
 <a References id="item20"></a>
 ### References
-[Definition of Software Engineering](https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf)
+Sáez, F. (s. f.). Ingeniería de software, factores económicos y humanos. Dit. [https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf](https://www.dit.upm.es/~fsaez/intl/ingenieria_del_software_factores_economicos_y_humanos.pdf)
 
-[Graduation Profile UADY](https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software)
+Universidad Autónoma de Yucatán. (s. f.). Perfil de Egreso - Licenciatura en Ingeniería de Software. Facultad de Matemáticas [https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software](https://www.matematicas.uady.mx/10-facultad/76-perfil-de-egreso-licenciatura-en-ingenieria-de-software)
 
-[Home UPQROO](https://upqroo.edu.mx/ingenieria-en-software/)
+Universidad Politécnica de Quintana Roo. (s. f.). Ingeniería de Software. UPQROO [https://upqroo.edu.mx/ingenieria-en-software/](https://upqroo.edu.mx/ingenieria-en-software/)
 
-[UADY Wikipedia](https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Yucat%C3%A1n)
+CONAIC. (s. f.). Consejo Nacional de Acreditación en Informática y Computación A.C.  [https://conaic.net/acreditados.html](https://conaic.net/acreditados.html)
 
-[UPQROO About us](https://upqroo.edu.mx/sobre-nosotros/)
+Universidad Politécnica de Quintana Roo. (s. f.). Sobre nosotros. UPQROO [https://upqroo.edu.mx/sobre-nosotros/](https://upqroo.edu.mx/sobre-nosotros/)
 
-[UADY Job Board](https://uady.mx/vinculacion/bolsa-trabajo)
+Universidad Autónoma de Yucatán. (s. f.). Bolsa de trabajo. [https://uady.mx/vinculacion/bolsa-trabajo](https://uady.mx/vinculacion/bolsa-trabajo)
 
-[UPQROO Business management](https://upqroo.edu.mx/gestion-empresarial/)
+Universidad Politécnica de Quintana Roo. (s. f.). Gestión empresarial. UPQROO [https://upqroo.edu.mx/gestion-empresarial/](https://upqroo.edu.mx/gestion-empresarial/)
