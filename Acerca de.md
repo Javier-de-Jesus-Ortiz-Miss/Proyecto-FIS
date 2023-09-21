@@ -6,6 +6,4 @@
 |  Adriel                                |  ![20230826_190517000_iOS](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/142276400/6a8d5d07-7643-477a-ae71-c16c88c91857)| Soy un estudiante de la universidad autonoma de yucatan, estoy estudiando para ingenieria de software actualmente en primer semestre. He aprendido a usar python, sqlite y empecé un proyecto por mi mismo de crear un bot de discord. Tengo un nivel alto de inglés.                                           |  https://www.linkedin.com/in/adriel-yerbes-d%C3%ADaz-47505828a                                |
 |  Greco                                 |                                            |                                            |                                  |
 |  Ruben                                 |                                            |                                            |                                  |
-
-
-
+|  Hector Alejandro Barrera Carrillo     |![1a855030-13af-4b1e-82f4-5b7bdf6beb53](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/112908347/fc77d3d2-fb53-462d-b077-b3deab03a2b6)| Soy un estudiante de la Licenciatura en Ingeniería de Software, me apasiona la tecnología como un medio para hacer nuestra vida más cómoda y lograr todas las metas que tengo. Me interesa el software porque te permite plasmar el proceso mental que conlleva la resolución de un problema.| https://www.linkedin.com/in/hector-barrera-50a667289/|
