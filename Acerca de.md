@@ -1,8 +1,8 @@
-|                 NOMBRES                |                     FOTO                   |              DESCRIPCION                   |       LINKEDIN                   |
+![foto](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/142443060/8ce4bfff-b9fa-4089-821d-533266c7ea4b)|                 NOMBRES                |                     FOTO                   |              DESCRIPCION                   |       LINKEDIN                   |
 |----------------------------------------|--------------------------------------------|--------------------------------------------|----------------------------------|
 |  Adrian                                |                                            |                                            |                                  |
 |  Javier                                |                                            |                                            |                                  |
 |  Aldo                                  |                                            |                                            |                                  |
 |  Adriel                                |                                            |                                            |                                  |
 |  Greco                                 |                                            |                                            |                                  |
-|  Ruben                                 |                                            |                                            |                                  |
+|  Rubén Alejandro Pérez Zumárraga       |![image](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/142443060/dd311a9a-c7c1-475b-91af-9c348892e9ca) |Estudiante de ingeniería de Software en la facultad de matemáticas de la UADY. Apasionado por la programación y el  codigo. Mis fuertes son el desarrollo de pseudocodigo y la elaboración de páginas web con y sin codigo.| www.linkedin.com/in/rubén-pérez-156aa41a1 |
