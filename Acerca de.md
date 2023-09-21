@@ -1,6 +1,7 @@
 |                 NOMBRES                |                     FOTO                   |              DESCRIPCION                   |       LINKEDIN                   |
 |----------------------------------------|--------------------------------------------|--------------------------------------------|----------------------------------|
-|  Adrian                                |                                            |                                            |                                  |
+|  Adrian Vazquez Martinez               |![PHOTO-2023-09-21-09-04-42](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/112908347/eb765aea-8b6b-4151-b28c-5905b3fbdf71)|
+                                          |Estudiante de ingeniería de software en la UADY, apasionado por el desarrollo de software, soy disciplinado, habil para solucionar problenmas, me gusta mucho trabajar en equipo y tengo buen íngles. |                                  |
 |  Javier                                |                                            |                                            |                                  |
 |  Aldo                                  |                                            |                                            |                                  |
 |  Adriel                                |                                            |                                            |                                  |
