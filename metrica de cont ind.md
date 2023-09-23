@@ -1,7 +1,7 @@
 # Metrica de contribucion individual
 
 |              |                   Indicador                  | Nivel | 
-|              |                                              |       |
+|--------------|----------------------------------------------|-------|
 |              |            Descripcion de producto           |   1   |
 |              |                                              |       |
 |   Producto   |              Usuarios / clientes             |   1   |
