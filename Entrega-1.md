@@ -24,10 +24,9 @@ In this document you will find the first delivery of project 1 in the subject of
     * [Generic Competencies](#item18)
     * [Specific Competencies](#item19)
 
-
+#
 <a Product id="item1"></a>
-### Product
-Lorem ipsum dolor
+# Product
 
 <a Product description id="item2"></a>
 ### Product description
@@ -41,9 +40,9 @@ Lorem ipsum dolor
 ### Value proposal
 Lorem ipsum dolor
 
+#
 <a Requirements id="item5"></a>
-### Requirements
-Lorem ipsum dolor
+# Requirements
 
 <a Functional Requirements id="item6"></a>
 ### Functional Requirements
@@ -61,9 +60,9 @@ Lorem  ipsum dolor
 ### Artifacts
 Lorem  ipsum dolor
 
+#
 <a Process id="item10"></a>
-### Process
-Lorem  ipsum dolor
+# Process
 
 <a Process description id="item11"></a>
 ### Process description
@@ -81,17 +80,17 @@ Lorem ipsum dolor
 ### Organization and Documentation of the Repository
 Lorem ipsum dolor
 
+#
 <a Preview Presentation id="item15"></a>
-### Preview Presentation
-Lorem ipsum dolor
+# Preview Presentation
 
 <a Presentation Format id="item16"></a>
 ### Presentation Format
 Lorem ipsum dolor
 
+#
 <a Competencies id="item17"></a>
-### Competencies
-Lorem ipsum dolor
+# Competencies
 
 <a Generic Competencies id="item18"></a>
 ### Generic Competencies
