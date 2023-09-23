@@ -11,8 +11,8 @@
 |              |                                              |       |
 |              |            Requisitos funcionales            |   1   |
 |              |          Requisitos no funcionales           |   1   |
-|  Requisitos  |                                              |       |
-|              |                 Priorizacion                 |   1   |
+|              |                                              |       |
+|  Requisitos  |                 Priorizacion                 |   1   |
 |              |                                              |       |
 |              |                  Artefactos                  |   1   |
 |              |                                              |       |
