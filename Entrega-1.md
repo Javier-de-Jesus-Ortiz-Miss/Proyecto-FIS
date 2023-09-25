@@ -50,7 +50,13 @@ Lorem  ipsum dolor
 
 <a Non-Functional Requirements id="item7"></a>
 ### Non-Functional Requirements
-Lorem  ipsum dolor
+
+-Private chat messages and geolocation data must be encrypted (security).
+-The intented users can get to their desired function whithout getting lost (usability).
+-Advertsing within the app has to adhere to the respective advertising standards (legal). 
+-The service must be avaliable 24/7 (reliability).
+-For the initial stage the app must be able to support 1,000 concurrent users (perfomance).
+-The database must be hosted on cloud-based service that has scalability (storage).
 
 <a Priorization id="item8"></a>
 ### Priorization
