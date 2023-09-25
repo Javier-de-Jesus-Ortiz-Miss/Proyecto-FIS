@@ -2,36 +2,36 @@
 
 |                   **Indicador**                  | **Nivel** | 
 |----------------------------------------------|-------|
-|            Descripcion de producto           |   1   |
+|           Product description           |   1   |
 |                                              |       |
-|              Usuarios / clientes             |   1   |
+|              Users / clients             |   1   |
 |                                              |       |
-|              Propuesta de valor              |   2   |
-|                                              |       |
-|                                              |       |
-|            Requisitos funcionales            |   3   |
-|          Requisitos no funcionales           |   2   |
-|                                              |       |
-|                 Priorizacion                 |   1   |
-|                                              |       |
-|                  Artefactos                  |   3   |
+|              Value proposal              |   2   |
 |                                              |       |
 |                                              |       |
-|            Descripcion del proceso           |   2   |
+|            Functional requirements          |   3   |
+|          Non-funtional requirements           |   2   |
 |                                              |       |
-|              Gestion del proceso             |   1   |
-|      Metrica de contribucion individual      |   1   |
+|                 Priorization                 |   1   |
 |                                              |       |
-| Organizacion y documentacion del repositorio |   1   |
-|                                              |       |
-|                                              |       |
-|           Formato de la presentacion         |   1   |
-|            Ritmo de la presentacion          |   1   |
-|                Uso del lenguaje              |   1   |
+|                  Artifacts                 |   3   |
 |                                              |       |
 |                                              |       |
-|              Competencias genericas          |       |
+|            Process description           |   2   |
+|                                              |       |
+|              Process management             |   1   |
+|      Individual contribution metric      |   1   |
+|                                              |       |
+| Documentation and organization of the repository |   1   |
+|                                              |       |
+|                                              |       |
+|           Make presentation         |   3   |
+|            Record          |   3   |
+|                Edit              |   1   |
+|                                              |       |
+|                                              |       |
+|              Generic skills          |       |
 |                                              |   3   |
-|             Competencias especificas         |       |
+|             Specific skills         |       |
 
 
