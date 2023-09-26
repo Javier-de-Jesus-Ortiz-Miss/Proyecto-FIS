@@ -1,6 +1,6 @@
-# Metrica de contribucion individual
+# Individual contribution metric
 
-|                   **Indicador**                  | **Nivel** | **Member** | **Percent** |
+|                   **Indicator**                  | **Level** | **Member** | **Percent** |
 |----------------------------------------------|-------|---------|------------|
 |           Product description           |   1   | Aldo | 3.5% |
 |                                              |       |
