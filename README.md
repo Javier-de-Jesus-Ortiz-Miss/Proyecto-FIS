@@ -71,7 +71,8 @@ Lorem  ipsum dolor
 
 <a Process description id="item11"></a>
 ### Process description
-Lorem  ipsum dolor
+![scrumprocess](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/142443060/9a9a3276-959e-4e8b-9b90-fd1d0899069b)
+
 
 <a Process Management id="item12"></a>
 ### Process Management
