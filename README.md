@@ -94,8 +94,8 @@ Lorem ipsum dolor
 
 <a Generic Competencies id="item18"></a>
 ### Generic Competencies
-| <font color="red">Competencias Generales</font> |
-|                                                 |
+| Generic Competencies                            |
+|-------------------------------------------------|
 |                                                 |
 |                                                 |
 |                                                 |
