@@ -96,11 +96,10 @@ Lorem ipsum dolor
 ### Generic Competencies
 | <font color="red">Generic Competencies</font>                            | Description                                                                                                                     |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|1)<font color="green">Team collaboration </font>                            |It involves the capacity, ability, and commitment to work effectively within the team to achieve various objectives.             |
-|2)<font color="green">Time management </font>                                |The team's skill in organizing itself to set deadlines and make effective use of the available time.                             |
-|3)<font color="green">Clear and precise communication </font>                |The ability to effectively express ideas, needs, problems and solutions related to the project.                                  |
-|4)<font color="green">Adaptable to changes </font>                           |The ease of adjusting to changes that may arise during the development of the project, showing flexibility, creativity and proactivity |
+|1)<font color="green">Team collaboration </font>                            |In the product development process, team collaboration is promoted by assigning clear roles and responsibilities to each team member. This fosters the ability and commitment to work effectively together to achieve the various project objectives.            |
+|2)<font color="green">Time management </font>                                |The ability to manage time effectively is done through time allocation and organization of tasks within the team. Deadlines are set and progress is monitored to ensure that established deadlines are met.                             |
+|3)<font color="green">Clear and precise communication </font>                |In product development, communication is promoted by creating an environment where team members feel comfortable expressing their ideas, problems, and solutions related to the project.                                  |
+|4)<font color="green">Adaptable to changes </font>                           |The ease of adapting to changes is made by facing unexpected situations during the development of the project. Flexibility is promoted by having team members seek creative and proactive solutions when problems or changes arise in the project.
 
 <a Specific Competencies id="item19"></a>
 ### Specific Competencies
-Lorem ipsum dolor
