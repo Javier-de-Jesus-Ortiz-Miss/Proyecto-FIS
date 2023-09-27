@@ -94,11 +94,15 @@ Lorem ipsum dolor
 
 <a Generic Competencies id="item18"></a>
 ### Generic Competencies
-| Generic Competencies                            |
-|-------------------------------------------------|
-|                                                 |
-|                                                 |
-|                                                 |
+| Generic Competencies                            | Description                                                                                                                     |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|1)Team collaboration                             |It involves the capacity, ability, and commitment to work effectively within the team to achieve various objectives.             |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|2)Time management                                |The team's skill in organizing itself to set deadlines and make effective use of the available time.                             |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|3)Clear and precise communication                |The ability to effectively express ideas, needs, problems and solutions related to the project.                                  |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|4)Adaptable to changes                           |The ease of adjusting to changes that may arise during the development of the project, showing flexibility, creativity and proactivity |
 
 <a Specific Competencies id="item19"></a>
 ### Specific Competencies
