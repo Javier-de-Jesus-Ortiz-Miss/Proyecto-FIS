@@ -30,7 +30,8 @@ In this document you will find the first delivery of project 1 in the subject of
 
 <a Product description id="item2"></a>
 ### Product description
-Lorem ipsum dolor
+
+The software product is a comprehensive platform that connects enthusiasts and individuals from the music industry in a collaborative environment. This allows for agility in musician recruitment, creation of groups, and organization of musical events. Additionally, it enables the purchase, sale, or rental of musical products, with parameters tailored to the preferences of both the seller and the interested party.
 
 <a  Users or Clients id="item3"></a>
 ### Users/Clients 
@@ -46,7 +47,34 @@ Lorem ipsum dolor
 
 <a Functional Requirements id="item6"></a>
 ### Functional Requirements
-Lorem  ipsum dolor
+
+1. **USER/REGISTRATION:**
+
+   * The system allows a simple and verified registration, enabling login through various options.
+   * Flexibility is provided, along with clear error messages for an effective user experience.
+
+2. **TINDER CONCEPT (system):**
+
+   * The system aims to facilitate interaction among musicians by allowing them to create detailed profiles that include personal information, photos, videos, and musical preferences.
+   * Musicians can post projects where they need collaborators, specifying the type of collaboration required and the relevant location.
+   * Users can rate and leave comments about other musicians they have collaborated with, promoting reputation and trust within the community.
+   * A calendar feature is included in profiles, enabling musicians to indicate their availability, and users can express their interest in projects.
+   * Location is utilized to display potential matches in nearby areas, enriching the musical collaboration experience.
+
+3. **SEARCH:**
+
+   * An efficient search engine for multimedia content and user profiles is implemented.
+   * It provides both simple and advanced search options, with suggestions and a clear display of results, including filters and sorting.
+
+4. **CHAT:**
+
+   * The system facilitates direct communication between users through messaging that supports various formats.
+   * Real-time notifications and conversation history storage are also offered.
+
+5. **BUY/SELL:**
+
+   * Focused on buying and selling products, the system enables advanced search, publication, and editing of products for sale.
+   * It allows ratings and reviews, promoting transparency and trust in the buying and selling process.
 
 <a Non-Functional Requirements id="item7"></a>
 ### Non-Functional Requirements
