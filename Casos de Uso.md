@@ -15,132 +15,132 @@
 
 ## UC01- Register profile
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       | 
+|:--------------------|:-----------------|
+| **Description**     |                  |
+| **Precondition**    |                  |
+| **Normal sequence** |                  |
+| **Postcondition**   |                  |                
+| **Exceptions**      |                  |                
+| **Comments**        |                  |                
 
 ## UC02- Log in to a profile
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       |
+|:--------------------|:-----------------|
+| **Description**     |                  |                
+| **Precondition**    |                  |                
+| **Normal sequence** |                  |                
+| **Postcondition**   |                  |                
+| **Exceptions**      |                  |                
+| **Comments**        |                  |                
 
 ## UC03- Customize profile
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       |        
+|:--------------------|:-----------------|
+| **Description**     |                  |                
+| **Precondition**    |                  |                
+| **Normal sequence** |                  |                
+| **Postcondition**   |                  |                
+| **Exceptions**      |                  |                
+| **Comments**        |                  |               
 
 ## UC04- Edit profile
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       | 
+|:--------------------|:-----------------|
+| **Description**     |                  |                
+| **Precondition**    |                  |                
+| **Normal sequence** |                  |                
+| **Postcondition**   |                  |                
+| **Exceptions**      |                  |                
+| **Comments**        |                  |                
 
 ## UC05- Upload media files
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       | 
+|:--------------------|:-----------------|
+| **Description**     |                  |                
+| **Precondition**    |                  |                
+| **Normal sequence** |                  |                
+| **Postcondition**   |                  |                
+| **Exceptions**      |                  |                
+| **Comments**        |                  |                
 
 ## UC06- Chat between users
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       | 
+|:--------------------|:-----------------|
+| **Description**     |                  |                
+| **Precondition**    |                  |                
+| **Normal sequence** |                  |                
+| **Postcondition**   |                  |                
+| **Exceptions**      |                  |                
+| **Comments**        |                  |                
 
 ## UC07- Visualize other nearby users
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       | 
+|:--------------------|:-----------------|
+| **Description**     |                  |                
+| **Precondition**    |                  |                
+| **Normal sequence** |                  |                
+| **Postcondition**   |                  |                
+| **Exceptions**      |                  |                
+| **Comments**        |                  |                
 
 ## UC08- Promote equipment for rent or sale
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       |      
+|:--------------------|:-----------------|
+| **Description**     |                  |                
+| **Precondition**    |                  |                
+| **Normal sequence** |                  |                
+| **Postcondition**   |                  |               
+| **Exceptions**      |                  |                
+| **Comments**        |                  |                
 
 ## UC09- Select a equipment in need to rent or buy
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       | 
+|:--------------------|:-----------------|
+| **Description**     |                  |                
+| **Precondition**    |                  |                
+| **Normal sequence** |                  |                
+| **Postcondition**   |                  |               
+| **Exceptions**      |                  |                
+| **Comments**        |                  |                
 
 ## UC10- Filter the browser
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       | 
+|:--------------------|:-----------------|
+| **Description**     |                  |                
+| **Precondition**    |                  |                
+| **Normal sequence** |                  |                
+| **Postcondition**   |                  |                
+| **Exceptions**      |                  |                
+| **Comments**        |                  |                
 
 ## UC11- Add another user
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       | 
+|:--------------------|:-----------------|
+| **Description**     |                  |                
+| **Precondition**    |                  |                
+| **Normal sequence** |                  |                
+| **Postcondition**   |                  |                
+| **Exceptions**      |                  |                
+| **Comments**        |                  |                
 
 ## UC12- Eliminate another user
 
-| <!-- -->            |   <!-- -->       | <!-- -->       |
-|:--------------------|:-----------------|:---------------|
-| **Description**     |                  |                |
-| **Precondition**    |                  |                |
-| **Normal sequence** |                  |                |
-| **Postcondition**   |                  |                |
-| **Exceptions**      |                  |                |
-| **Comments**        |                  |                |
+| <!-- -->            |   <!-- -->       | 
+|:--------------------|:-----------------|
+| **Description**     |                  |                
+| **Precondition**    |                  |                
+| **Normal sequence** |                  |                
+| **Postcondition**   |                  |                
+| **Exceptions**      |                  |                
+| **Comments**        |                  |                
