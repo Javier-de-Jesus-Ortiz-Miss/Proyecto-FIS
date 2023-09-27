@@ -58,8 +58,9 @@ Lorem  ipsum dolor
 
 <a Artifacts id="item9"></a>
 ### Artifacts
-Lorem  ipsum dolor
+* [Use cases](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/hector-branch/Use_cases.md) 
 
+* [User stories](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/hector-branch/User_Stories.md)
 #
 <a Process id="item10"></a>
 # Process
