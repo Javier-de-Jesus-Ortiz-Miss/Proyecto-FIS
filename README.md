@@ -73,7 +73,7 @@ Lorem  ipsum dolor
 ### Process description
 We started this project with the intention of using the scrum methodology, but we did not organize ourselves in the best way, so we failed in some key aspects of this methodology, such as not being able to divide the tasks into small sections or holding daily meetings to see the progress of the project.
 
-That is why we did not get stuck and decided to make a quick change, which was to start using the Agile methodology.
+That's why we did not get stuck and decided to make a quick change, which was to start using the <b>Agile methodology<b>.
 
 ![image](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/142443060/18d7f023-843d-47d9-9f57-59848ec85531)
 
