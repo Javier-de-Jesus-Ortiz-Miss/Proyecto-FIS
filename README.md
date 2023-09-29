@@ -105,7 +105,5 @@ Lorem ipsum dolor
 ### Specific Competencies
 | Specific Competencies                          | Description                                                                                                                     |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-|1) Development of an Evaluation and Review System                         |Achieve the implementation of a system that allows users to rate and leave reviews on musicians, events and products, which encourages transparency and trust in the platform.            |
-|2) User Profiles                             |Ability to create and manage user profiles that include personal information, multimedia, music preferences and related products. This is essential to provide users with a complete experience on the platform.                            |
-|3) Real Time Communication System            |Achieve the implementation of real-time messaging systems that allow musicians to interact and coordinate projects efficiently and in real time.                                |
-|4) Integration of location functionalities                        |Achieve the incorporation of location features to improve the user experience, such as displaying matches in nearby areas and searching for local people..
+|1) Software development                     |Achieve the development of a quality software project using tools and methods that help us comply with a systematic, disciplined and quantifiable approach.         |
+|2) Innovation in software engineering                              | Achieve the creation of a software product that is applicable in various domains, optimizing resources and satisfying their respective needs                 |
