@@ -54,7 +54,7 @@
 |:----------------|
 | **As a** professional DJ       |
 |**I want** to rent the equipment while Im not using it       |
-|**so that** other user can perform with it and I can **ganar dinero bonito   |
+|**so that** other user can perform with it and I can make profit  |
 
 ## User 8
 
@@ -62,7 +62,7 @@
 |:----------------|
 | **As an** amateur musician       |
 |**I want** to buy a good quality instrument     |
-|**so that** I can play and practice with out spending a ** huge amount      |
+|**so that** I can play and practice with out spending buying a new one   |
 
 ## User 9
 
@@ -70,4 +70,4 @@
 |:----------------|
 |**As a** amateur DJ |
 |**I want** to rent the equipment needed to perform|
-|**so that** I can play without **gastar mucgo dinero|
+|**so that** I can play and perform|
