@@ -130,6 +130,8 @@ The search option will give the users the power to see only what they want, this
 
 * [User stories](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-1/User_Stories.md)
 
+* [Survey](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-1/Survey.md)
+
 #
 <a Process id="item10"></a>
 # Process
