@@ -93,7 +93,14 @@ The search option will give the users the power to see only what they want, this
 
 <a Non-Functional Requirements id="item7"></a>
 ### Non-Functional Requirements
-Lorem  ipsum dolor
+
+<ol>
+  <li>Private chat messages and geolocation data must be encrypted (security). </li>
+  <li>The intented users can get to their desired function whithout getting lost (usability).</li>
+  <li>Advertising within the app has to adhere to the respective advertising standards (legal).</li>
+  <li>The service must be avaliable 24/7 (reliability). -For the initial stage the app must be able to support 1,000 concurrent users (perfomance).</li>
+  <li>The database must be hosted on a cloud-based service that has scalability (storage).
+</ol>
 
 <a Priorization id="item8"></a>
 ### Priorization
@@ -192,4 +199,5 @@ Lorem ipsum dolor
 | Specific Competencies                          | Description                                                                                                                     |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 |1) Software development                     |Achieve the development of a quality software project using tools and methods that help us comply with a systematic, disciplined and quantifiable approach.         |
+
 |2) Innovation in software engineering                              | Achieve the creation of a software product that is applicable in various domains, optimizing resources and satisfying their respective needs                 |
