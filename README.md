@@ -56,12 +56,14 @@ Because of that we also implement a messaging system that will help the users sw
 #### Search and filters for improved search
 The search option will give the users the power to see only what they want, this tool will show results for things that are being sold, persons, and musicians with that abilities; if you don't want to see certain things, there also the option to filter the results, so you will only see the things that you select.
 
+
 #
 <a Requirements id="item5"></a>
 # Requirements
 
 <a Functional Requirements id="item6"></a>
 ### Functional Requirements
+
 
 1. **USER/REGISTRATION:**
 
@@ -102,13 +104,17 @@ The search option will give the users the power to see only what they want, this
   <li>The database must be hosted on a cloud-based service that has scalability (storage).
 </ol>
 
+
 <a Priorization id="item8"></a>
 ### Priorization
 Lorem  ipsum dolor
 
 <a Artifacts id="item9"></a>
 ### Artifacts
-Lorem  ipsum dolor
+
+* [Use cases](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/hector-branch/Use_cases.md) 
+
+* [User stories](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/hector-branch/User_Stories.md)
 
 #
 <a Process id="item10"></a>
@@ -116,6 +122,7 @@ Lorem  ipsum dolor
 
 <a Process description id="item11"></a>
 ### Process description
+
 We started this project with the intention of using the scrum methodology, but we did not organize ourselves in the best way, so we failed in some key aspects of this methodology, such as not being able to divide the tasks into small sections or holding daily meetings to see the progress of the project.
 
 That's why we did not get stuck and decided to make a quick change, which was to start using the <b>Agile methodology<b>.
@@ -128,12 +135,14 @@ We first evaluate the best project ideas in a brainstorm. Afterwards, we organiz
 
 
 
+
 <a Process Management id="item12"></a>
 ### Process Management
 Lorem ipsum dolor
 
 <a Individual Contribution Metric id="item13"></a>
 ### Individual Contribution Metric
+
 
 |  **Indicator**                                   |**Level**| **Member**            | **Percent**    |
 |--------------------------------------------------|---------|-----------------------|----------------|
@@ -169,6 +178,7 @@ Lorem ipsum dolor
 |                                                  |         |                       |                |
 | Specific skills                                  |         |                       |                |
 
+
 <a Organization and Documentation of the Repository id="item14"></a>
 ### Organization and Documentation of the Repository
 Lorem ipsum dolor
@@ -187,6 +197,7 @@ Lorem ipsum dolor
 
 <a Generic Competencies id="item18"></a>
 ### Generic Competencies
+
 | <font color="red">Generic Competencies</font>                            | Description                                                                                                                     |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 |1) <font color="green">Team collaboration </font>                            |In the product development process, team collaboration is promoted by assigning clear roles and responsibilities to each team member. This fosters the ability and commitment to work effectively together to achieve the various project objectives.            |
@@ -201,3 +212,4 @@ Lorem ipsum dolor
 |1) Software development                     |Achieve the development of a quality software project using tools and methods that help us comply with a systematic, disciplined and quantifiable approach.         |
 
 |2) Innovation in software engineering                              | Achieve the creation of a software product that is applicable in various domains, optimizing resources and satisfying their respective needs                 |
+
