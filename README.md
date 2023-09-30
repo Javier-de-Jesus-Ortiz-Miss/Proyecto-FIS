@@ -112,9 +112,9 @@ Lorem  ipsum dolor
 <a Artifacts id="item9"></a>
 ### Artifacts
 
-* [Use cases](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/hector-branch/Use_cases.md) 
+* [Use cases](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-1/Use_cases.md) 
 
-* [User stories](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/hector-branch/User_Stories.md)
+* [User stories](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-1/User_Stories.md)
 
 #
 <a Process id="item10"></a>
