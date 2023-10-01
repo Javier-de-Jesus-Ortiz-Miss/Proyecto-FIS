@@ -15,7 +15,6 @@ In this document you will find the first delivery of project 1 in the subject of
     * [Artifacts](#item9)
 * [Process](#item10)
     * [Process description](#item11)
-    * [Process Management](#item12)
     * [Individual Contribution Metric](#item13)
     * [Organization and Documentation of the Repository](#item14)
 * [Preview Presentation](#item15)
@@ -150,11 +149,6 @@ This methodology adapted perfectly to our needs and was very useful when organiz
 We first evaluate the best project ideas in a brainstorm. Afterwards, we organized ourselves to distribute the role that each of us was going to play in the development of the project. For this we distribute the tasks by points with equitable values ​​so that we work in equal parts. And finally, we held meetings from time to time virtually or in person to evaluate the progress we were making throughout the days, in order not to fall behind and finish the work on time.
 
 
-
-
-<a Process Management id="item12"></a>
-### Process Management
-Lorem ipsum dolor
 
 <a Individual Contribution Metric id="item13"></a>
 ### Individual Contribution Metric
