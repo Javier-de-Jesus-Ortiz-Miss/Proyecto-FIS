@@ -15,9 +15,8 @@ In this document you will find the first delivery of project 1 in the subject of
     * [Artifacts](#item9)
 * [Process](#item10)
     * [Process description](#item11)
-    * [Process Management](#item12)
     * [Individual Contribution Metric](#item13)
-    * [Organization and Documentation of the Repository](#item14)
+* [Our presentation video](#item12)
 * [Preview Presentation](#item15)
     * [Presentation Format](#item16)
 * [Competencies](#item17)
@@ -152,9 +151,7 @@ We first evaluate the best project ideas in a brainstorm. Afterwards, we organiz
 
 
 
-<a Process Management id="item12"></a>
-### Process Management
-Lorem ipsum dolor
+
 
 <a Individual Contribution Metric id="item13"></a>
 ### Individual Contribution Metric
@@ -195,9 +192,11 @@ Lorem ipsum dolor
 | Specific skills                                  |         |                       |                |
 
 
-<a Organization and Documentation of the Repository id="item14"></a>
-### Organization and Documentation of the Repository
-Lorem ipsum dolor
+#
+<a Our presentation video id="item12"></a>
+# Our presentation video (Delivery 1)
+
+[Delivery 1 video](https://alumnosuady-my.sharepoint.com/personal/a20204029_alumnos_uady_mx/_layouts/15/stream.aspx?id=%2Fpersonal%2Fa20204029%5Falumnos%5Fuady%5Fmx%2FDocuments%2FEntrega1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1)
 
 #
 <a Preview Presentation id="item15"></a>
@@ -211,7 +210,7 @@ Lorem ipsum dolor
 
 [Word Script](https://1drv.ms/w/s!ApgujU4FYi5Rh5By6amX33y0FyE2WA?e=GQ7JUO)
 
-[Delivery 1 video](https://alumnosuady-my.sharepoint.com/personal/a20204029_alumnos_uady_mx/_layouts/15/stream.aspx?id=%2Fpersonal%2Fa20204029%5Falumnos%5Fuady%5Fmx%2FDocuments%2FEntrega1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1)
+
 
 #
 <a Competencies id="item17"></a>
