@@ -1,5 +1,6 @@
 # MusicHub
-![MusicHubLogo (2)](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/142273908/6e6ffda8-514b-4437-b29d-ff264550d144)
+
+![LogoMusicHub](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/assets/142273908/07e8eab8-9545-4095-b416-a669e3124780)
 
 
 
