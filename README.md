@@ -211,6 +211,8 @@ Lorem ipsum dolor
 
 [Word Script](https://1drv.ms/w/s!ApgujU4FYi5Rh5By6amX33y0FyE2WA?e=GQ7JUO)
 
+[Delivery 1 video](https://alumnosuady-my.sharepoint.com/personal/a20204029_alumnos_uady_mx/_layouts/15/stream.aspx?id=%2Fpersonal%2Fa20204029%5Falumnos%5Fuady%5Fmx%2FDocuments%2FEntrega1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1)
+
 #
 <a Competencies id="item17"></a>
 # Competencies
