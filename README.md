@@ -1,7 +1,9 @@
-# VAMPR 2.0
+# MusicHub
+
+
 
 ## Objective
-
+Our objective is to facilitate the Connection between Music Enthusiasts and Industry Professionals, Enabling Musician Recruitment, Group Formation, Event Organization, and Personalized Transactions for Musical Equipment. 
 
 ## Team
 > - 🔷JAVIER DE JESUS ORTIZ MISS
