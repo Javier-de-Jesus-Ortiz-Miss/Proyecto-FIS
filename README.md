@@ -152,7 +152,6 @@ We first evaluate the best project ideas in a brainstorm. Afterwards, we organiz
 
 
 
-
 <a Individual Contribution Metric id="item13"></a>
 ### Individual Contribution Metric
 
