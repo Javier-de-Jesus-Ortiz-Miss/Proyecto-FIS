@@ -15,6 +15,4 @@ In this document you will find the second delivery of project 1 in the subject o
 * [Product](#item12)
    * [Presentation-1](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Products/presentation.md)
     * [Presentation Format](#item16)
-* [Competencies](#item17)
-    * [Generic Competencies](#item18)
-    * [Specific Competencies](#item19)
+MANUELA LA ABUELA DE PEDRO XD
