@@ -1,110 +1,18 @@
-# Entrega 1
+# Entrega 2
 
 ## What will you find in this document?
-In this document you will find the first delivery of project 1 in the subject of Fundamentals of Software Engineering of Group A, with all the aspects to be evaluated in the Rubric of this activity.
+In this document you will find the second delivery of project 1 in the subject of Fundamentals of Software Engineering of Group A, with all the aspects to be evaluated in the Rubric of this activity.
 
 ## List of contents
-* [Product](#item1)
-    * [Product description](#item2)
-    * [Users/Clients](#item3)
-    * [Value proposal](#item4)
-* [Requirements](#item5)
++ [Activities](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-2/Artifacts)
+    * [Metrica1](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Activity%20scores/metrica%20de%20cont-1.md)
+* [Artifacts](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-2/Artifacts)
     * [Functional Requirements](#item6)
     * [Non-Functional Requirements](#item7)
-    * [Priorization](#item8)
-    * [Artifacts](#item9)
-* [Process](#item10)
++ [Process](#item10)
     * [Process description](#item11)
-    * [Process Management](#item12)
     * [Individual Contribution Metric](#item13)
-    * [Organization and Documentation of the Repository](#item14)
-* [Preview Presentation](#item15)
+* [Product](#item12)
+   * [Presentation-1](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Products/presentation.md)
     * [Presentation Format](#item16)
-* [Competencies](#item17)
-    * [Generic Competencies](#item18)
-    * [Specific Competencies](#item19)
-
-#
-<a Product id="item1"></a>
-# Product
-Lorem ipsum dolor
-
-<a Product description id="item2"></a>
-### Product description
-Lorem ipsum dolor
-
-<a  Users or Clients id="item3"></a>
-### Users/Clients 
-Lorem ipsum dolor
-
-<a  Users or Clients id="item4"></a>
-### Value Proposal
-Lorem ipsum dolor
-
-#
-<a Requirements id="item5"></a>
-# Requirements
-Lorem ipsum dolor
-
-<a Functional Requirements id="item6"></a>
-### Functional Requirements
-Lorem ipsum dolor
-
-<a Non-Functional Requirements id="item7"></a>
-### Non-Functional Requirements
-Lorem ipsum dolor
-
-
-<a Priorization id="item8"></a>
-### Priorization
-Lorem  ipsum dolor
-
-<a Artifacts id="item9"></a>
-### Artifacts
-
-* [Use cases](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/hector-branch/Use_cases.md) 
-
-* [User stories](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/hector-branch/User_Stories.md)
-
-#
-<a Process id="item10"></a>
-# Process
-Lorem ipsum dolor
-
-<a Process description id="item11"></a>
-### Process description
-Lorem ipsum dolor
-
-
-
-<a Process Management id="item12"></a>
-### Process Management
-Lorem ipsum dolor
-
-<a Individual Contribution Metric id="item13"></a>
-### Individual Contribution Metric
-Lorem ipsum dolor
-
-<a Organization and Documentation of the Repository id="item14"></a>
-### Organization and Documentation of the Repository
-Lorem ipsum dolor
-
-#
-<a Preview Presentation id="item15"></a>
-# Preview Presentation
-
-<a Presentation Format id="item16"></a>
-### Presentation Format
-Lorem ipsum dolor
-
-#
-<a Competencies id="item17"></a>
-# Competencies
-
-<a Generic Competencies id="item18"></a>
-### Generic Competencies
-Lorem ipsum dolor
-
-<a Specific Competencies id="item19"></a>
-### Specific Competencies
-Lorem ipsum dolor
+MANUELA LA ABUELA DE PEDRO XD
