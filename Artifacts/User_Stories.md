@@ -1,8 +1,9 @@
+# User Stories
 
 ## User 1
 
-|<!-- -->                                                                        |
-|:----------------------------------------|
+|<!-- -->                                           |
+|:--------------------------------------------------|
 |**As a** founder of a band                         |
 |**I want** to find possible members for it         |
 |**so that** it is complete and functional to perform|
@@ -99,4 +100,3 @@
 | Acceptance criteria: |
 | 1. Equipment posts include comprehensive details about the items, including specifications, condition, rental price, location, and high-quality photos |
 | 2. The rental price is clearly displayed, and any additional fees or security deposit are outlined |
-
