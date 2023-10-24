@@ -232,3 +232,4 @@ We first evaluate the best project ideas in a brainstorm. Afterwards, we organiz
 |1) Software development                     |Achieve the development of a quality software project using tools and methods that help us comply with a systematic, disciplined and quantifiable approach.         |
 |2) Innovation in software engineering                              | Achieve the creation of a software product that is applicable in various domains, optimizing resources and satisfying their respective needs                 |
 
+
