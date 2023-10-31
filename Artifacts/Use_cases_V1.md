@@ -9,7 +9,7 @@
 * [UC07 - Promote equipment for rent or sale](#uc07--promote-equipment-for-rent-or-sale)
 * [UC08 - Select a equipment in need to rent or buy](#uc08--select-a-equipment-in-need-to-rent-or-buy)
 * [UC09 - Filter the browser](#uc09--filter-the-browser)
-* [UC10 - Add another user from Musicder](#uc10--add-another-user-from-musicder)
+* [UC10 - Add another user from MusicHub](#uc10--add-another-user-from-musichub)
 
 ## UC01- Register profile
 
