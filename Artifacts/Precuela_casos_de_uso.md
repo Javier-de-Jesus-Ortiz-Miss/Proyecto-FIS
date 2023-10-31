@@ -2,8 +2,8 @@
 
 ## UC01 Ingresar a la cuenta de un usuario
 
-|                 |                     |                  |
-| ---------------- | ------------------- | ---------------- |
+|                 |                     |                  ||
+| ---------------- | ------------------- | ---------------- |-|
 | **Descripción**  | Este caso de uso permite a un usuario ingresar a su cuenta. | 
 | **Precondición** | El usuario se encuentra en la pagina de registro. | 
 | **Secuencia Normal** | 1. El usuario ingresa el conrreo y contraseña. |
@@ -11,7 +11,7 @@
 || 3. El sistema inicia la sesión del usuario. |
 | **Postcondición** | Se inicia sesión en el perfil validado. |
 | **Excepciones** | Paso 4- El sistema rechaza los datos ingresados
-4.1 el sistema rechhaza los datos
+||4.1 el sistema rechhaza los datos|
 Si la información ingresada es inválida, el sistema muestra un mensaje de error. |
 
 <!--
@@ -37,7 +37,9 @@ Si la información ingresada es inválida, el sistema muestra un mensaje de erro
 | | 4. El usuario selecciona que roles desempeña en la industria musical |
 | | 5. El usuario envía el formulario de registro. |
 | **Postcondición** | Se crea la cuenta del usuario y se inicia sesión. |
-| **Excepciones** | Si la información ingresada es inválida, el sistema muestra un mensaje de error.  - |
+| **Excepciones** | Paso 5 - Si la información ingresada es inválida, el sistema rechaza los datos ingresados |
+||  Paso 5.1 - El sistema muestra un mensaje de error. |
+
 <!-- Secuencia normal, pasos que probablemente pongamos:
 | | 5. El usuario selecciona una de las dos opciones de cobro, si selecciona pagar, muestra el cobro por hora, en caso contrario esta opción no es desplegada  |
 | | 6. El usuario sube un video mostrando una interpretación músical con un instrumento que domine, este video será mostrado en la pantalla de presentación de usuario  |
@@ -50,8 +52,9 @@ Si la información ingresada es inválida, el sistema muestra un mensaje de erro
 | ---------------- | ------------------- | ---------------- |
 | **Descripción**  | Este caso de uso permite al usuario personalizar su perfil. | 
 | **Precondición** | El usuario ha iniciado sesión en su cuenta. | 
-| **Secuencia Normal** | 1. El usuario va a la sección de personalización de perfil. |
-| | 2. El usuario realiza cambios en su información de perfil o configuraciones. |
+| **Secuencia Normal** | 1. El usuario va a la sección de perfil. |
+|| 2. El usuario selecciona personalizar perfil |
+| | 2. El sistema abre el menu de perzonalizar perfil |
 | | 3. El usuario guarda los cambios. |
 | **Postcondición** | El perfil del usuario se actualiza con la información personalizada. |
 | **Excepciones** | - Si hay errores en los datos de personalización, el sistema puede mostrar un mensaje de error. - Ejecutarse automaticamente cuando se inicie sesion por primera vez|
