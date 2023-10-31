@@ -4,6 +4,3 @@
 [Canva Artifacts](https://www.canva.com/design/DAFvzKIp3Jk/SR9AI5ofsiG-kqxJ17frpQ/edit?ui=eyJHIjp7fX0)
 
 [Word Script](https://1drv.ms/w/s!ApgujU4FYi5Rh5By6amX33y0FyE2WA?e=GQ7JUO)
-
-
-CAMBIO PARA VERIFICAR
