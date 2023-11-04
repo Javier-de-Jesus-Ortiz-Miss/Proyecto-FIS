@@ -1,6 +1,8 @@
 # User Stories
 
+
 ### US 1: "Register on the platform"
+
 
 | | |
 | ---------------- | ------------------- |
@@ -11,7 +13,9 @@
 | When: | I fill out the registration form with my information |
 | Then: | I must be able to log in to the platform |
 
+
 ### US 2: "Login"
+
 
 | | |
 | ---------------- | ------------------- |
@@ -22,7 +26,9 @@
 | When: | I enter my login credentials |
 | Then: | I must have access to the platform's functions |
 
+
 ### US 3: "Customize profile"
+
 
 | | |
 | ---------------- | ------------------- |
@@ -33,7 +39,9 @@
 | When: | I modify the information, content and projects in my profile |
 | Then: | Changes to my profile should reflect my updated information |
 
+
 ### US 4: "View videos in the 'Feed' section"
+
 
 | | |
 | ---------------- | ------------------- |
@@ -44,7 +52,9 @@
 | When: | Scroll down the page |
 | Then: | New videos should appear as I scroll down |
 
+
 ### US 5: "View another user's profile"
+
 
 | | |
 | ---------------- | ------------------- |
@@ -55,18 +65,37 @@
 | When: | I select the name of another user |
 | Then: | I should be redirected to the profile of the selected user |
 
-### US 6: "Search for projects, users or musicians by technical roles"
+
+### US 6: "Search for projects or users by filters"
+
 
 | | |
 | ---------------- | ------------------- |
 | Like: | Registered user |
-| I want: | Search for projects, users or musicians by technical roles |
-| To: | Find specific collaborators or projects related to my skills |
+| I want: | Search for projects or users by filters |
+| To: | Find specific collaborators or projects of my interest |
 | Since: | I am in the search section |
-| When: | I carry out a search |
+| When: | I select the filter buttons I want to apply and perform the search |
 | Then: | Results must be shown that match the search performed |
 
-### US 7: "View projects in the 'Projects' section"
+
+### US 7: "Search for projects or users by name"
+
+
+| | |
+| ---------------- | ------------------- |
+| Like: | Registered user |
+| I want: | Search for musicians by the project or user name |
+| To: | Find specific projects or musicians registered in the platform |
+| Since: | I am in the search section |
+| When: | I carry out a search by project or user name |
+| Then: | Results must be shown that match the search performed |
+
+
+
+
+### US 8: "View projects in the 'Projects' section"
+
 
 | | |
 | ---------------- | ------------------- |
@@ -77,7 +106,9 @@
 | When: | I browse the list of projects |
 | Then: | Projects should be shown with summarized details |
 
-### US 8: "View the details of a music project"
+
+### US 9: "View the details of a music project"
+
 
 | | |
 | ---------------- | ------------------- |
@@ -88,29 +119,48 @@
 | When: | I select a project from the list |
 | Then: | Full details of the musical project must be shown |
 
-### US 9: "Send 'Match' request to a user or project"
+
+### US 10: "Send 'Match' request to a user"
+
 
 | | |
 | ---------------- | ------------------- |
 | Like: | Registered user |
-| I want: | Send a 'Match' request to a user or project |
-| To: | Express my interest in collaborating or connecting with them |
-| Since: | I am in the user's profile, on the “Feed” screen or the project |
+| I want: | Send a 'Match' request to a user |
+| To: | Express my interest in collaborating or connecting with other user |
+| Since: | I am in the user's profile or the “Feed” screen |
 | When: | I select the “Match” button or swipe right from the “Feed” screen |
 | Then: | A 'Match' request must be sent and the recipient notified |
 
-### US 10: "Manage a music project"
+
+### US 11: "Send 'Match' request to a project"
+
 
 | | |
 | ---------------- | ------------------- |
-| Like: | Manager of a musical project |
+| Like: | Registered user |
+| I want: | Send a 'Match' request to a project |
+| To: | Express my interest in collaborating or connecting with them |
+| Since: | I am in the user's profile or the project’s screen |
+| When: | I select the “Match” button or swipe right from the “Projects” screen |
+| Then: | A 'Match' request must be sent and the recipient notified |
+
+
+### US 12: "Manage a music project"
+
+
+| | |
+| ---------------- | ------------------- |
+| Like: | Administrator of a musical project |
 | I want: | Manage a musical project |
 | To: | Edit, update and manage project information and collaborators |
 | Since: | I am the creator or collaborator in a project |
-| When: | I access the project administration panel |
+| When: | I access the project editing panel |
 | Then: | I must be able to make changes to the project information |
 
-### US 11: "View and manage notifications"
+
+### US 13: "View and manage notifications"
+
 
 | | |
 | ---------------- | ------------------- |
