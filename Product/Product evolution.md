@@ -15,12 +15,16 @@ With these refined requirements we continued the development process by making t
 
 ## Evidence:
 
-<ul>
-  <li>[irst delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2F/Artifacts/FunctionalRequirements_V1.md)</li>
-  <li>[Second delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/FunctionalRequirements_V2.md)</li>
-  <li>[Interfaces](https://www.figma.com/file/mnf9Tw9l8duGT8FA4EpKvF/MusicHub-wireframes?type=design&node-id=3%3A66&mode=design&t=KqDrbpZBEbN6Y99c-1)</li>
-  <li>[User stories](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/UserStories.md)</li>
-    <li>[Use case diagram](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/Use%20case%20diagram.png)</li>
-</ul>
+-[first delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2F/Artifacts/FunctionalRequirements_V1.md)
+
+-[Second delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/FunctionalRequirements_V2.md)
+
+-[Interfaces](https://www.figma.com/file/mnf9Tw9l8duGT8FA4EpKvF/MusicHub-wireframes?type=design&node-id=3%3A66&mode=design&t=KqDrbpZBEbN6Y99c-1)
+
+-[User stories](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/UserStories.md)
+
+-[Use case diagram](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/Use%20case%20diagram.png)
+
     
+
 
