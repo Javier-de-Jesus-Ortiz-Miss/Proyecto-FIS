@@ -9,19 +9,17 @@
 * [UC07 - Promote equipment for rent or sale](#uc07--promote-equipment-for-rent-or-sale)
 * [UC08 - Select a equipment in need to rent or buy](#uc08--select-a-equipment-in-need-to-rent-or-buy)
 * [UC09 - Filter the browser](#uc09--filter-the-browser)
-* [UC10 - Add another user from Musicder](#uc10--add-another-user-from-musicder)
-
-* cambio paa checar seguridad
+* [UC10 - Add another user from MusicHub](#uc10--add-another-user-from-musichub)
 
 ## UC01- Register profile
 
 | <!-- -->            |   <!-- -->                                                                                                  |
 |:--------------------|:------------------------------------------------------------------------------------------------------------|
 | **Description**     | This function will make the registration process                                                            |
-| **Precondition**    | User must be connected to Internet and have a phone number or a mail account                                |
+| **Precondition**    | User must be connected to Internet and have a phone number or a email account                                |
 | **Normal sequence** | 1. User: Enter to system and select to create a new account                                                 |
 |                     | 2. System: Deploy the registration questionnaire                                                            |
-|                     | 3. User: Complete the questionnaie with full name, phone number or mail account and accept the terms of use |
+|                     | 3. User: Complete the questionnaire with full name, phone number or mail account and accept the terms of use |
 |                     | 4. System: Register the new user in the data base and return to log in window                               |
 | **Postcondition**   | The system has registered the new user                                                                      |
 | **Exceptions**      | The phone or mail has already been registered                                                               |
@@ -32,10 +30,10 @@
 
 | <!-- -->            |   <!-- -->       |
 |:--------------------|:-----------------|
-| **Description**     | This function will allow the user to acces their account       |
+| **Description**     | This function will allow the user to access their account       |
 | **Precondition**    | The user is connected to Internet and the user has acces to a registered account  |
-| **Normal sequence** | 1. System: Presents to user the log in page, asking for phone number/mail and password     |
-|| 2. User: Enters their phone number/mail and password  |
+| **Normal sequence** | 1. System: Presents to user the log in page, asking for phone number/email and password     |
+|| 2. User: Enter their phone number/email and password  |
 || 3. System: Validates data and allow user to acces their profile |
 | **Postcondition**   |  The user is successfully logged in and have access to their profile             |
 | **Exceptions**      | Account Lockout: if there have been multiple unsuccessful login attempts, the system locks the user's account temporarily for security reasons                  |
@@ -46,10 +44,10 @@
 | <!-- -->            |   <!-- -->       |
 |:--------------------|:-----------------|
 | **Description**     |  This function will enable users to choose their preferences |
-| **Precondition**    |  User must be connected to Internet and have acces to a registered account|
+| **Precondition**    |  User must be connected to Internet and have access to a registered account|
 | **Normal sequence** |  1. User: Selects "Profile" |
 || 2. System: Shows "Profile" window |
-|| 3. User: Selecs "Customiza Profile"|
+|| 3. User: Selects "Customize Profile"|
 || 4. System: Shows "Customize Profile" window|
 || 5. User: Selects an option in the parameters shown, shuch as interest, experience, favorite musical genres, etc. |
 || 6. User: Confirm the information |
@@ -63,14 +61,14 @@
 | <!-- -->            |   <!-- -->       |
 |:--------------------|:-----------------|
 | **Description**     | The user will be able to edit the information registered   |
-| **Precondition**    | The user must be connected to Internet and have acces to a registered account      |
-| **Normal sequence** | 1. User: Acces to "Profile" and "Edit profile"                 |
+| **Precondition**    | The user must be connected to Internet and have access to a registered account      |
+| **Normal sequence** | 1. User: Access to "Profile" and "Edit profile"                 |
 || 2. System: Opens the edit profile window |
 || 3. User: Modifies the information needed
 || 4. User: Confirm the new information
 || 5. System: Save the new information in the data base
 || 6. System: Close the "Edit profile" window
-| **Postcondition**   | The users information is uppdated in the system                 |
+| **Postcondition**   | The users information is updated in the system                 |
 | **Exceptions**      |                  |
 | **Comments**        |                |
 
@@ -78,29 +76,29 @@
 
 | <!-- -->            |   <!-- -->       |
 |:--------------------|:-----------------|
-| **Description**     | This function will anable the user to upload files such as videos, photos, music, etc.                 |
-| **Precondition**    | The user must be connected to Internet and have acces to a registered account                 |
-| **Normal sequence** | 1. User: Acces to "Profile" and select "Upload files"                |
+| **Description**     | This function will enable the user to upload files such as videos, photos, music, etc.                 |
+| **Precondition**    | The user must be connected to Internet and have access to a registered account                 |
+| **Normal sequence** | 1. User: Access to "Profile" and select "Upload files"                |
 || 2. System: Opens files window
-|| 3. User: Select the file wanted and confirm |
-|| 4. System: Save it in the data base and show it in the profile
+|| 3. User: Selects the file wanted and confirm |
+|| 4. System: Saves it in the data base and shows it in the profile
 | **Postcondition**   | The user file is uploaded in their profile                 |
-| **Exceptions**      | The tipe of file is unvalid                 |
+| **Exceptions**      | The type of file is invalid                 |
 | **Comments**        |                  |
 
 ## UC06- Chat between users
 
 | <!-- -->            |   <!-- -->       |
 |:--------------------|:-----------------|
-| **Description**     | This function will allow the user to chat between them and store the chat history                 |
-| **Precondition**    | Both users must be connected to Internet and have acces to registed accounts                 |
-| **Normal sequence** | 1. User 1: Acces to the "Chat" |
+| **Description**     | This function will allow the users to chat between themselves and store the chat history                 |
+| **Precondition**    | Both users must be connected to Internet and have access to registed accounts                 |
+| **Normal sequence** | 1. User 1: Access to the "Chat" |
 || 2. System: Show "added users"                 |
 || 3. User 1: Select the destinatary
 || 4. System: Open the chat window
 || 5. User 1: Type message and send it
-|| 6. System: Notifies user 2 about the message
-| **Postcondition**   | User 1 has send the message and user 2 has recive it                 |
+|| 6. System: Notifies User 2 about the message
+| **Postcondition**   | User 1 has sent the message and User 2 has received it                 |
 | **Exceptions**      | User 2 has blocked user 1             |
 | **Comments**        |                  |
 
@@ -109,8 +107,8 @@
 | <!-- -->            |   <!-- -->       |
 |:--------------------|:-----------------|
 | **Description**     | This function will enable the user to upload music equipment for sale and define the price wanted          |
-| **Precondition**    | The user must be connected to Internet, have acces to a registered account and have the equipment                  |
-| **Normal sequence** | 1. User: Acces the "shop" area                |
+| **Precondition**    | The user must be connected to Internet, have access to a registered account and have the equipment                  |
+| **Normal sequence** | 1. User: Access the "shop" area                |
 || 2. System: Opens the shop window |
 || 3. User: Select "add" |
 || 4. User: Upload a photo of the equipment and fill the information required |
@@ -124,16 +122,16 @@
 | <!-- -->            |   <!-- -->       |
 |:--------------------|:-----------------|
 | **Description**     | This function will enable user to select equipment wanted for rent or to buy                 |
-| **Precondition**    | The user must be connected to Internet, have acces to a registered account and other user has submited the equipmed desired        |
-| **Normal sequence** | 1. User: Acces the "shop" area                 |
-|| 2. System: Shows equioment available nearby |
+| **Precondition**    | The user must be connected to Internet, have access to a registered account and other user has submitted the equipment desired        |
+| **Normal sequence** | 1. User: Access the "shop" area                 |
+|| 2. System: Shows equipment available nearby |
 || 3. User: Selects the "Search option"
-|| 4. System: Shows posibble filters to aply |
+|| 4. System: Shows possible filters to apply |
 || 5. User: Write the equipment wanted or fill the filters |
 || 6. System: Deploy options according to the users input |
 || 7. User: Select the option wanted |
 || 8. System: Opens chat between user and owner of the equipment |
-| **Postcondition**   | User will have selected the equipment andn                 |
+| **Postcondition**   | User will have selected the equipment                 |
 | **Exceptions**      | There is not the desired equipment nearby                 |
 | **Comments**        |                  |
 
@@ -141,29 +139,29 @@
 
 | <!-- -->            |   <!-- -->       |
 |:--------------------|:-----------------|
-| **Description**     | This function will enable users to aply filters when browsing in any area    |
-| **Precondition**    | The user must be connected to Internet, have acces to a registered account and be in one of the 3 main area, "Shop", "Chat" or "Tinder"       |
+| **Description**     | This function will enable users to apply filters when browsing in any area    |
+| **Precondition**    | The user must be connected to Internet, have access to a registered account and be in one of the 3 main area, "Shop", "Chat" or "Tinder"       |
 | **Normal sequence** | 1. User: Selects one of 3 areas        |
-|| 2. User: Select the search icon |
+|| 2. User: Select the Search icon |
 || 3. System: Opens search window |
-|| 4. System: Shows possible filters to apply deppending on the area |
+|| 4. System: Shows possible filters to apply depending on the area |
 || 5. User: Select the options wanted |
 || 6. User: Confirm the information |
-|| 7. System: Show information to the user acconrding to the filters and the area |
-| **Postcondition**   | User will have recived information wanted more specifically                 |
+|| 7. System: Show information to the user according to the filters and the area |
+| **Postcondition**   | User will have received information wanted more specifically                 |
 | **Exceptions**      |                  |
 | **Comments**        |                  |
 
-## UC10- Add another user from Musicder
+## UC10- Add another user from MusicHub
 
 | <!-- -->            |   <!-- -->       |
 |:--------------------|:-----------------|
 | **Description**     | This function will enable users to add other users                 |
-| **Precondition**    | The user must be connected to Internet, user must have acces to a registered account and the added user must be registered              |
-| **Normal sequence** | 1. System: Shows a Musicder      |
+| **Precondition**    | The user must be connected to Internet, user must have access to a registered account and the added user must be registered              |
+| **Normal sequence** | 1. System: Shows a User      |
 || 2. User 1: Select the add icon |
 || 3. System: Notifies User 2 |
-|| 4. System: Add user 2 to partners list |
-| **Postcondition**   | User 1 has associated with user 2       |
+|| 4. System: Add User 2 to partners list |
+| **Postcondition**   | User 1 has associated with User 2       |
 | **Exceptions**      | User 2 rejects User 1         |
 | **Comments**        |                  |
