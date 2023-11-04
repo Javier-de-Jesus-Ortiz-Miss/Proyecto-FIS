@@ -15,7 +15,7 @@ With these refined requirements we continued the development process by making t
 
 ## Evidence:
 
--[first delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2F/Artifacts/FunctionalRequirements_V1.md)
+-[First delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/FunctionalRequirements_V1.md)
 
 -[Second delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/FunctionalRequirements_V2.md)
 
