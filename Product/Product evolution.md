@@ -13,8 +13,14 @@ We also elaborated and modified all of the other requirements since we realized 
 
 With these refined requirements we continued the development process by making the use cases and  corresponding interfaces, as well as a use case diagram and user stories. All of this resulted in more clear and complete product, that has clear objectives and ways to fulfill them but without going overboard and being unmanageable.
 
-## Evidence
-[first delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/FunctionalRequirements_V1.md)
-[second delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/FunctionalRequirements_V2.md)
-[interfaces](https://www.figma.com/file/mnf9Tw9l8duGT8FA4EpKvF/MusicHub-wireframes?type=design&node-id=3%3A66&mode=design&t=KqDrbpZBEbN6Y99c-1)
+## Evidence:
+
+<ul>
+  <li>[irst delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2F/Artifacts/FunctionalRequirements_V1.md)</li>
+  <li>[Second delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/FunctionalRequirements_V2.md)</li>
+  <li>[Interfaces](https://www.figma.com/file/mnf9Tw9l8duGT8FA4EpKvF/MusicHub-wireframes?type=design&node-id=3%3A66&mode=design&t=KqDrbpZBEbN6Y99c-1)</li>
+  <li>[User stories](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/UserStories.md)</li>
+    <li>[Use case diagram](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/Use%20case%20diagram.png)</li>
+</ul>
+    
 
