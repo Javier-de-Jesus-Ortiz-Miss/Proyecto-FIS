@@ -1,7 +1,7 @@
 # Individual contribution metric
 All of the following tasks were done successfully, if a person was assigned a task and they did not successfully complete it, someone else did and we assigned the points to them. This is why there is a difference in resulting points. 
 
-|  **Task **                                   |**Points **| **Member**            | **Percent**    |
+|  **Task**                                  |**Points** | **Member**            | **Percent**    |
 |--------------------------------------------------|---------|-----------------------|----------------|
 |  Use cases definition | 2 each       | Aldo,  Hector and Greco                | 3.85%     each      | 
 |                                                  |         |                       |                |
@@ -46,7 +46,7 @@ All of the following tasks were done successfully, if a person was assigned a ta
 | Video narration | 1   each    | Javier and Ruben | 1.92% each         |
 |                                                  |         |                       |                |
 | Edit video|     2    |        Javier   |      3.85%          |
-|                                                  |         |                       |                |
+
 
 
 
@@ -57,7 +57,7 @@ All of the following tasks were done successfully, if a person was assigned a ta
 
 # Percentage Accumulation 
 
-|  **Team member **    |**accumulated points **| **Accumulated percentage **   | **Accumulated percentage x 7 **    |
+|  **Team member**    |**accumulated points**| **Accumulated percentage**   | **Accumulated percentage x 7**    |
 |--------------------------------------------------|---------|-----------------------|----------------|
 | Aldar Giovanni Gonzalez Duran | 7  |     13.46%    |    94.23%  | 
 |                                                  |         |                       |                |
@@ -72,4 +72,4 @@ All of the following tasks were done successfully, if a person was assigned a ta
 | Javier de Jesús Ortiz Miss                                  | 8       |    15.38% |     107.7%       |
 |                                                  |         |                       |                |
 | Adrian Vazquez Martinez | 9 |  17.31%  |     121.15% |
-|                                                  |         |                       |                |
+
