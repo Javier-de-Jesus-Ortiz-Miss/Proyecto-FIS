@@ -1,8 +1,7 @@
 # Product evolution
 
-The main difference in the project is all of the aspects that were discarded by prioritizing the requirements from entrega-1 and discussing which functions were truly fundamental for the objective of our product. The most important parts that were eliminated were the rent/buy/sell equipment section; which added value but wasn´t the main focus,  the calendar; because users can easily communicate avalaibility trough the chat function, and lastly the ability to rate profiles; since the users experience is the best indicator of their profesionality level and recieving low ratings could be discouraging to amateur musicians. 
 
-The primary distinction in the project lies in our deliberate choices to prioritize the key elements from entrega-1 and identify which functions were truly essential for achieving our product's objectives. The most important exclutions were: 
+The primary distinction in the project lies in our deliberate choices to prioritize the key requirements from the first delivery and identify which functions were truly essential for achieving our product's objectives. The most important functions that we discarded were: 
 
 <ol>
   <li>The "rent/buy/sell equipment" section, while valuable, was not our central focus. </li>
@@ -14,4 +13,8 @@ We also elaborated and modified all of the other requirements since we realized 
 
 With these refined requirements we continued the development process by making the use cases and  corresponding interfaces, as well as a use case diagram and user stories. All of this resulted in more clear and complete product, that has clear objectives and ways to fulfill them but without going overboard and being unmanageable.
 
-ev
+## Evidence
+[first delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/FunctionalRequirements_V1.md)
+[second delivery requirements](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/FunctionalRequirements_V2.md)
+[interfaces](https://www.figma.com/file/mnf9Tw9l8duGT8FA4EpKvF/MusicHub-wireframes?type=design&node-id=3%3A66&mode=design&t=KqDrbpZBEbN6Y99c-1)
+
