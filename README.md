@@ -20,5 +20,5 @@ In this document you will find the second delivery of project 1 in the subject o
 * [Process](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-2/Process)
   * [Process description](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Process/ProcessDescription_V2.md)
   * [Individual Contribution Metric](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Process/ContributionMetric2.md)
-* [Our presentation video](#item12)
+* [Our presentation video](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Presentation/Delivery%202-%20Video.md)
 * [Competencies](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Process/Generic%20and%20Specific%20Competencies.md)
