@@ -1,12 +1,9 @@
 # Proces
 
-Fist of all, we decided to organize the repository in a better way to avoid having merge porblems and for the better understanding of it. We created the structure of the second delivery with folders and documents from the last activitie and merged it into our personal branches. Only the leader of the team is able to accept pull request
-
-After that we established the rules to interact with the repository:
-
-1. Every member must have their personal branch in a local folder
-2. To acomplish the activities assingned every member works locally and will push to the remote branch during the meetings of the team
-3. Every activity has a designed folder stablished in ...
-4. The merge of all the personal branches with the delivery is done during the last meeting with all the members verifying the information
-
-We did a first task divition, and made group works to accomplish the 3 areas we focused on, the repository, the artifacts and the interfases; after the firts meeting to check progress we decided to merg the group of the repository in to the other groups becouse of the complexity them.
+|Sprint | Planeacion |  Actividades| responsables | Resultados |
+|-------|-------------|-------------|-------------|-------|
+|02/10/23-08/10/23 | Decidimos en primera instancia organizar mejjor nuestro repositorio ya que en la entrega anterior tuvimos conflictos con el merge | Crear la base del repositorio, transferir los archivos a las carpetas | Hector | [Repositorio_entrega-2](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-2)  |
+|09/10/23-15/10/23 | Empezamos con el refinamiento de nuestros requerimientos funcionales y se realizo una planificación de lo que se quería entregar, nos dividimos en equipos para comenzar las interfaces y los artefactos | Generar los casos de uso y planificar las interfaces | Hector y Adrian | [Requerimientos_Funcionales](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/FunctionalRequirements_V2.md) |
+|16/10/23-22/10/23 | Nos dimos cuenta que estabamos abarcando mucho, por lo que decidimos hacer una priorizacion de nuestros requerimientos y terminamos por cortar la seccion de tienda, continuamos trabajando las interfaces y los artefactos| Redefinir los casos de uso , realizar el diagrama de casos de uso, generar bocetos de las interfaces| Hector y Adrian|[Casos de uso](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/hector-branch/Artifacts/UseCases_V2.md), [Diagrama_de_casos_de_uso](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/Use%20case%20diagram.png), [Priorizacion_2](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/Priorization_V2.md)|
+|23/10/23-29/10/23| Verificamos los avances realizados y con los requisitos funcionales y decidimos primero terminar las interfaces para luego poder hacer la descripcion de los casos de uso más facilmente | Verificar los avances, terminar las interfaces | Hector y Adrian |[Link de figma](https://www.figma.com/file/mnf9Tw9l8duGT8FA4EpKvF/MusicHub-wireframes?type=design&node-id=0%3A1&mode=design&t=qxtZjsayTXGxgfVb-1)|
+|30/10/23-05/11/23 | Debido a que muchas cosas las trabajamos en documentos colaborativos debido a la extencion al momento de subirlo al repositorio una sola persona lo sibió, pero se llegó a ese acuerdo por la facilidad y el tiempo| Validacion de las interfaces con los casos de uso, redactar la evolucion del producto, terminar de redactar nuestro proceso, realizar nuestro video y subir cada quien su parte al repositorio|Hector, Adrian y Javier | [Repositorio_entrega-2](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-2) |
