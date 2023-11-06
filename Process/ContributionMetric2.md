@@ -43,7 +43,7 @@ All of the following tasks were done successfully, if a person was assigned a ta
 |                                                  |         |                       |                |
 | Video script |     2    |        Ruben|      3.85%          |
 |                                                  |         |                       |                |
-| Video narration | 1   each    | Javier and Ruben | 1.92% each         |
+| Video narration | 2    |  Ruben | 3.85% each         |
 |                                                  |         |                       |                |
 | Edit video|     2    |        Javier   |      3.85%          |
 
@@ -67,9 +67,9 @@ All of the following tasks were done successfully, if a person was assigned a ta
 |                                                  |         |                       |                |
 | Adriel Yerbes Díaz                        | 5      |      9.62%  |        67.31%   |
 |                                                  |         |                       |                |
-| Rubén Alejandro Pérez Zumárraga | 6       |  11.54%      |         80.77%   |
+| Rubén Alejandro Pérez Zumárraga | 7       |  13.46%      |         94.23%   |
 |                                                  |         |                       |                |
-| Javier de Jesús Ortiz Miss                                  | 8       |    15.38% |     107.7%       |
+| Javier de Jesús Ortiz Miss                                  | 7       |    13.46% |     94.23%%       |
 |                                                  |         |                       |                |
 | Adrian Vazquez Martinez | 9 |  17.31%  |     121.15% |
 
