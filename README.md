@@ -19,3 +19,5 @@ Our objective is to facilitate the Connection between Music Enthusiasts and Indu
 [ACERCA DE NOSOTROS](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-1/Acerca%20de.md)
 
 * [Entrega-1](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-1#entrega-1)
+* [Entrega-2](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-2)
+  
