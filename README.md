@@ -195,7 +195,7 @@ We first evaluate the best project ideas in a brainstorm. Afterwards, we organiz
 <a Our presentation video id="item12"></a>
 # Our presentation video (Delivery 1)
 
-[Delivery 1 video](https://alumnosuady-my.sharepoint.com/personal/a20204029_alumnos_uady_mx/_layouts/15/stream.aspx?id=%2Fpersonal%2Fa20204029%5Falumnos%5Fuady%5Fmx%2FDocuments%2FEntrega1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1)
+[Delivery 1 video](https://www.youtube.com/watch?v=RsYZYp-NeCg)
 
 #
 <a Preview Presentation id="item15"></a>
