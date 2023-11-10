@@ -17,7 +17,7 @@ In this document you will find the second delivery of project 1 in the subject o
   * [Use Cases](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/UseCases_V2.md)
   * [Use case diagram](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/Use%20case%20diagram.png)
   * [User_Stories](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Artifacts/UserStories_V2.md)
-  * [Interfaces](https://www.figma.com/file/wvvPusR771goXn28KqFKfz/Apple-Design-Resources-%E2%80%93-iOS-17-and-iPadOS-17-(Community)?type=design&node-id=0%3A850&mode=design&t=rtPFBjX8xt3m1l81-1)
+  * [Interfaces](https://www.figma.com/file/mnf9Tw9l8duGT8FA4EpKvF/MusicHub-wireframes?type=design&node-id=0%3A1&mode=design&t=mVEgGgE2rX13hmfH-1)
 * [Process](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-2/Process)
   * [Process description](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Process/ProcessDescription_V2.md)
   * [Individual Contribution Metric](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-2/Process/ContributionMetric2.md)
