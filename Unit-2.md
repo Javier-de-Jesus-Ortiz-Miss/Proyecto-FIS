@@ -132,6 +132,6 @@ Latam, D. (2021, 15 abril). 15 métodos de prueba que todos los desarrolladores 
 
 ¿Qué es la prueba de software y cómo funciona? | IBM. (s. f.). https://www.ibm.com/mx-es/topics/software-testing#:~:text=Hay%20muchos%20tipos%20diferentes%20de%20pruebas%20de%20software%2C,funci%C3%B3n%20de%20los%20requisitos%20funcionales.%20. . .%20More%20items
 
-Fundamentos de la seguridad de aplicaciones. (s. f.). [https://trailhead.salesforce.com/es-MX/content/learn/modules/application-security-basics/learn-application-security-engineer-skills] (https://trailhead.salesforce.com/es-MX/content/learn/modules/application-security-basics/learn-application-security-engineer-skills)
+Fundamentos de la seguridad de aplicaciones. (s. f.). [https://trailhead.salesforce.com/es-MX/content/learn/modules/application-security-basics/learn-application-security-engineer-skills](https://trailhead.salesforce.com/es-MX/content/learn/modules/application-security-basics/learn-application-security-engineer-skills)
 
 
