@@ -104,6 +104,17 @@ De aquí surge parte del valor de los métodos agiles que buscan dividir el desa
 
 En nuestro equipo a pesar de no haber realizado pruebas formales hemos estado cuestionando los requerimientos y enfoque de nuestro proyecto desde el principio, esto ha resultado en una reducción de los requerimientos y funciones. Reflexionando nos dimos cuenta de que de haber realizado pruebas con wireframes muy básicos nos hubiéramos dado cuenta que estábamos siendo muy ambiciosos desde el principio, ya que estamos seguros el usuario se hubiera perdido y abrumado con todas las funciones que queríamos incluir. Sin embargo, es una realidad que hubiera sido una inversión de tiempo bastante grande, por lo que llegamos a la conclusión de que si estuvo bien reservar las pruebas para esta etapa de refinamiento de interfaces en la cual estamos actualmente. 
 
+# Habilidades de un Ingeniero de software en la creacion de un software seguro
+
+**Por que es necesaria la seguridad en una aplicacion de software?** Una seguridad de aplicaciones deficiente puede implicar enormes consecuencias negativas para una organización. Los intrusos cibernéticos atacan a diversas organizaciones cada día para extraer dinero, información corporativa y propiedad intelectual con fines de enriquecimiento. Los atacantes utilizan los datos secuestrados para realizar compras no autorizadas y robar las identidades de los consumidores. 
+
+* **Modelado de amenazas:** Pensar en cómo los atacantes pueden vulnerar un sistema y qué protecciones se necesitan contra esto
+
+* **Ciclo de vida de desarrollo de software seguro (SSDLC):** Ayudar a los desarrolladores a escribir códigos seguros mediante la implementación de estándares de codificación seguros, técnicas y prácticas recomendadas con el fin de minimizar las vulnerabilidades
+
+* **Revisiones de códigos de seguridad:** Identificar las vulnerabilidades de seguridad en el código fuente antes de que se implemente una aplicación en producción
+
+* **Análisis y pruebas de vulnerabilidades:** Descubrir las debilidades una vez implementada la aplicación y asesorar a los equipos de desarrollo sobre una corrección
 
 ### References
 (Habilidades Técnicas: ¿Qué Y Cuáles Son?, 2019) [https://habilidades.top/habilidades-tecnicas/#Ejemplos_de_habilidades_tecnicas](https://habilidades.top/habilidades-tecnicas/#Ejemplos_de_habilidades_tecnicas)
@@ -120,5 +131,7 @@ Pressman, r. s. (2002). Ingeniería del software: un enfoque practico (5a. ed.).
 Latam, D. (2021, 15 abril). 15 métodos de prueba que todos los desarrolladores deben conocer - DevOps Latam. DevOps Latam. https://devopslatam.com/15-metodos-de-prueba-que-todos-los-desarrolladores-deben-conocer/
 
 ¿Qué es la prueba de software y cómo funciona? | IBM. (s. f.). https://www.ibm.com/mx-es/topics/software-testing#:~:text=Hay%20muchos%20tipos%20diferentes%20de%20pruebas%20de%20software%2C,funci%C3%B3n%20de%20los%20requisitos%20funcionales.%20. . .%20More%20items
+
+Fundamentos de la seguridad de aplicaciones. (s. f.). [https://trailhead.salesforce.com/es-MX/content/learn/modules/application-security-basics/learn-application-security-engineer-skills] (https://trailhead.salesforce.com/es-MX/content/learn/modules/application-security-basics/learn-application-security-engineer-skills)
 
 
