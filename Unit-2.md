@@ -68,7 +68,7 @@ Las interfaces son una de las partes más importantes del software ya que tienen
 En (Pressman,2002, p. 279) se menciona que, aunque se han desarrollado e impuesto varios modelos de para el diseño de las interfaces, suelen ser una combinación de las siguientes etapas: 
 <ol>
   <li>Definir objetos y acciones de la interfaz (operaciones) con el uso de la información desarrollada en el análisis de la interfaz.</li>
-  <li>Definir eventos (acciones del usuario) que harán que cambie el estado de la interfaz de usuario. Hay que modelar este comportamiento./li>
+  <li>Definir eventos (acciones del usuario) que harán que cambie el estado de la interfaz de usuario. Hay que modelar este comportamiento.</li>
   <li>Ilustrar cada estado de la interfaz como lo vería en la realidad el usuario final.</li>
   <li>Indicar cómo interpreta el usuario el estado del sistema a partir de la información provista a través de la interfaz.</li>
 </ol>
@@ -86,6 +86,23 @@ Nos centraremos en la primera etapa, en nuestra opinión la más importante, ya 
 En el caso de nuestro proyecto sin saberlo realizamos este método para diseño de interfaces, ya que desde el principio tuvimos en cuenta nuestro público objetivo y desarrollamos la app pensando en que estarían acostumbrados a usar ciertas redes sociales y apps. También realizamos el listado de tareas a través de los casos de uso y requerimientos, mismos que nos sirvieron para validar las interfaces.
 
 De la misma forma tuvimos en cuenta que toda la información en pantalla fuera estética y sobre todo entendible para los usuarios objetivo, sin embargo, sabemos que esto no es suficiente por lo que en esta próxima entrega buscaremos realizar las mayores pruebas posibles para asegurar la usabilidad de nuestras interfaces.
+
+# Pruebas en el desarrollo de software
+
+Las pruebas son fundamentales en el desarrollo y existen distintos tipos dependiendo de que en etapa se estén realizando y cual sea su función, algunos ejemplos son: 
+
+**Pruebas continuas:** estas pruebas se realizan después de cada compilación a medida que se acabe. se basa en automatizar pruebas; permitiendo así que el software se valide en entornos de prueba realistas en una etapa temprana del proceso, mejorando el diseño y reduciendo riesgos.
+
+**Virtualización de servicios:** cuando los servicios no están completos este lo que hace es simular los servicios faltantes para reducir las dependencias y así realizar pruebas antes.
+
+Es importante tener un buen seguimiento de defectos o errores ya que permite saber los defectos, medir su alcance e impacto y descubrir problemas relacionados.
+
+A su vez las métricas e informes permiten a los miembros del equipo compartir el estado, los objetivos y los resultados de las pruebas y así supervisar las relaciones entre las pruebas, el desarrollo y otros elementos del proyecto
+Los dos ejemplos de prueba dados nos hablan de realizar las pruebas lo antes posible, esto no es coincidencia ya que realizar cambios suele ser más costoso mientras as avanzado este el proceso.
+
+De aquí surge parte del valor de los métodos agiles que buscan dividir el desarrollo en módulos, que una vez terminados pueden ser probados individualmente y así en base a los resultados realizar correcciones y tomar en cuenta los cambios para los siguientes módulos. Esto hace posible las pruebas continuas, permitiendo la iteración y modificaciones de forma iterativa y continua, pero mitigando la cantidad de trabajo que se tiene que rehacer o desechar igualmente.
+
+En nuestro equipo a pesar de no haber realizado pruebas formales hemos estado cuestionando los requerimientos y enfoque de nuestro proyecto desde el principio, esto ha resultado en una reducción de los requerimientos y funciones. Reflexionando nos dimos cuenta de que de haber realizado pruebas con wireframes muy básicos nos hubiéramos dado cuenta que estábamos siendo muy ambiciosos desde el principio, ya que estamos seguros el usuario se hubiera perdido y abrumado con todas las funciones que queríamos incluir. Sin embargo, es una realidad que hubiera sido una inversión de tiempo bastante grande, por lo que llegamos a la conclusión de que si estuvo bien reservar las pruebas para esta etapa de refinamiento de interfaces en la cual estamos actualmente. 
 
 
 ### References
