@@ -62,6 +62,32 @@ Recomendamos las historias de usuario para:
 
 Basado en la experiencia, podemos confirmar que las historias de usuario son más comprensibles al no tener tantos detalles y un entedimiento minucioso del funcionamiento del sistema, por lo que, para proyectos más grandes, los casos de uso serían adecuados debido a la complejidad del mismo.
 
+# Métodos relacionados al diseño de la interfaz de usuario 
+
+Las interfaces son una de las partes más importantes del software ya que tienen un gran peso en definir que tanto se usara el software, si una interfaz es confusa, lenta y antiestética lo mas probable es que el usuario deje de utilizar el software. Es por esto por lo que el diseño de interfaces, lejos de ser trivial es fundamental para un exitoso desarrollo de software.
+En (Pressman,2002, p. 279) se menciona que, aunque se han desarrollado e impuesto varios modelos de para el diseño de las interfaces, suelen ser una combinación de las siguientes etapas: 
+<ol>
+  <li>Definir objetos y acciones de la interfaz (operaciones) con el uso de la información desarrollada en el análisis de la interfaz.</li>
+  <li>Definir eventos (acciones del usuario) que harán que cambie el estado de la interfaz de usuario. Hay que modelar este comportamiento./li>
+  <li>Ilustrar cada estado de la interfaz como lo vería en la realidad el usuario final.</li>
+  <li>Indicar cómo interpreta el usuario el estado del sistema a partir de la información provista a través de la interfaz.</li>
+</ol>
+
+Nos centraremos en la primera etapa, en nuestra opinión la más importante, ya que sirve como base para todo lo demás.  Se menciona que antes de diseñar hay que:
+
+**Entender al usuario**, para esto existen métodos como realizarles entrevistas, realizar análisis de mercado, hacernos preguntas sobre las características de los usuarios (nivel educacional, edad, genero, idioma etc.) y estar en constante contacto con ellos. 
+
+**Comprender las tareas**, a través de casos de uso, dividirlas en tareas y subtareas (jerarquizarlas) y la realización de diagramas.
+
+**Analizar la información en pantalla**, buscando que sea estética y que el usuario pueda rápidamente identificar que representa cada cosa.
+
+**Análisis del ambiente de trabajo**, todos los elementos que se tendrán en el entorno en el cual se utilizara el software se tienen que tomar en cuenta (iluminación, acceso al teclado, ruido, urgencia etc.)
+
+En el caso de nuestro proyecto sin saberlo realizamos este método para diseño de interfaces, ya que desde el principio tuvimos en cuenta nuestro público objetivo y desarrollamos la app pensando en que estarían acostumbrados a usar ciertas redes sociales y apps. También realizamos el listado de tareas a través de los casos de uso y requerimientos, mismos que nos sirvieron para validar las interfaces.
+
+De la misma forma tuvimos en cuenta que toda la información en pantalla fuera estética y sobre todo entendible para los usuarios objetivo, sin embargo, sabemos que esto no es suficiente por lo que en esta próxima entrega buscaremos realizar las mayores pruebas posibles para asegurar la usabilidad de nuestras interfaces.
+
+
 ### References
 (Habilidades Técnicas: ¿Qué Y Cuáles Son?, 2019) [https://habilidades.top/habilidades-tecnicas/#Ejemplos_de_habilidades_tecnicas](https://habilidades.top/habilidades-tecnicas/#Ejemplos_de_habilidades_tecnicas)
 
@@ -71,3 +97,11 @@ Galindo, S. (2023, March 15). Gestión de la calidad en el desarrollo de softwar
 Seguridad en el ciclo de vida de desarrollo del software. (2022). Redhat.com.[https://www.redhat.com/es/topics/security/software-development-lifecycle-security](https://www.redhat.com/es/topics/security/software-development-lifecycle-security)
 
 Sánchez, A. A. L. L. (2016, February 28). Requisitos vs Casos de uso vs Historias de Usuario. Angel Lozano.[http://www.angellozano.com/requisitos-del-sistema-vs-casos-uso-vs-historias-usuario/](http://www.angellozano.com/requisitos-del-sistema-vs-casos-uso-vs-historias-usuario/)
+
+Pressman, r. s. (2002). Ingeniería del software: un enfoque practico (5a. ed.). Madrid: Mcgraw-hill interamericana.
+
+Latam, D. (2021, 15 abril). 15 métodos de prueba que todos los desarrolladores deben conocer - DevOps Latam. DevOps Latam. https://devopslatam.com/15-metodos-de-prueba-que-todos-los-desarrolladores-deben-conocer/
+
+¿Qué es la prueba de software y cómo funciona? | IBM. (s. f.). https://www.ibm.com/mx-es/topics/software-testing#:~:text=Hay%20muchos%20tipos%20diferentes%20de%20pruebas%20de%20software%2C,funci%C3%B3n%20de%20los%20requisitos%20funcionales.%20. . .%20More%20items
+
+
