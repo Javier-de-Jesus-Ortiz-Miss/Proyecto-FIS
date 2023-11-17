@@ -1,4 +1,4 @@
-1. Asumiendo que los valores descritos en el acuerdo del "Manifiesto para el desarrollo ágil de software", causan conflicto en el proceso de desarrollo reflexione y describa de manera clara posibles soluciones utilizando como base el proyecto que están desarrollando en equipo.
+# Soluciones a conflictos del "Manifiesto para el desarrollo ágil de software" que observamos en el desarrollo de nuestro proyecto.
 
 1.1 En el maniefiesto del desarrollo agil escriben que se debe trabajar entirno a individuos motivados, sin embargo la realidad es que muchas veces las personas se encuentran en situaciones complicadas o indispuestas y podría llegar a alterar el flujo del proyecto, en nuestro trabajo tuvimos situaciones similares y nuestra solucion fue realizar revisiones de los avances con el equipo de trabajo con más frecuencia, haciendo que cualquier inconveniente pueda ser solucionado o desechado en su defecto. 
 
