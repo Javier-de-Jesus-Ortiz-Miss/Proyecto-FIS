@@ -1,12 +1,7 @@
-|Sprint | Día de reunión | Objetivo | Actividades | Responsables | Fecha límite  |  Resultados |
-|-------|-------------|-------------|-------------|-------|------------|--|
-|10/11/23-16/11/23| 10/11/23 | Definir con el equipo los dias de reunion y de entrega de actividades, ademas de asignar las primeras tareas | Planeacion, mejorar la fidelidad de las interfaces | Ruben | 15/11/23 los avances y el 17/11/23 la final | |
-|10/11/23-16/11/23| 15/11/23 | Verificar los avances realizados por los integrantes en las interfaces| ||
-
-adriel - chat
-javier- pag prinfcipal
-ruben- perfiles
-aldo- proyectos
-adrian- log in
-geco- buscar
-hector- contactos
+| Sprint | Meeting Day | Objective | Activities | Responsible | Deadline | Results |
+| ------- | ------------- | ------------- | ------------- | ------- | ------------ | -- |
+| Sprint1 06/11/23-16/11/23 | 10/11/23 | Define with the team the meeting and activity delivery days, as well as assign the initial tasks with the goal of improving interface fidelity | Planning and improving interface fidelity | Ruben and Hector | 15/11/23 | |
+| | 15/11/23 | Verify the progress made and make necessary corrections | Progress verification and corrections | Hector | 16/11/23 | |
+| Sprint2 17/11/23-23/11/23 | 17/11/23 | Perform the second task assignment with the goal of standardizing user tests, adding visual elements to interfaces, and creating their flow | Task assignment, improving interfaces, standardizing tests, and creating interface flow | Adriel, Hector, and Ruben | 22/11/23 | |
+| | 22/11/23 | Verify the progress made and make necessary corrections | Perform corrections assigned to each team member | | 23/11/2023 | |
+| Sprint3 24/11/2023-03/12/2024 | 24/11/23 | Perform the final task assignment with the goal of completing the repository and creating the video for the final presentation | For the repository, evolve the product, innovate, provide constructive criticism, interpret tests, and create an individual contribution table; the video team should plan, script, record sketches, and edit the video for the final delivery | Hector Barrera and Adrian Vazquez | 01/12/2023| |
