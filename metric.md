@@ -1,6 +1,6 @@
-| *Member* |*Task* | *Value* | *Progress Points* | *Points earned* | *Percent* |
-|-------------------|---------|----|--|-|---------- -----------|
-| Adriel Yerbes Dias | Chat | 2 | | | |
+|  *Member*      |*Task* | *Value* | *Progress Points* |     *Points achived*    | *Percent*  |
+|------------------|---------|----|--|-|---------------------|
+| Adriel Yerbes Dias | Chat | 2 | | | 10% |
 | Javier Ortis Miss | Main Page | 2 | | | 10% |
 | Rubén Pérez Zumarraga | Profiles | 2 | | | 10% |
 | Aldar Gonzales Duran | Projects | 2 | | | 10% |
