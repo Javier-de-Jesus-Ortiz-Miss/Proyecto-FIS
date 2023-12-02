@@ -38,12 +38,44 @@ Usando una media de 8 horas por cada CFP, hemos estimado un aproximado total de 
 Debido a que este proyecto lo estamos llevando a cabo estudiantes, no podemos realizar una estimación de costos realista, ya que no somos empleados y por tanto no recibimos remuneración, sin embargo, a continuación mostramos 2 casos en la estimación de costos basado en los datos históricos de dichos puestos en México, mismos que se encuentran referenciados al final de esta página.
 
 * **Caso 1: Desarrolladores Junior**
-    * Desarrollador Frontend (Junior): $54 - $87 por hora.
-    * Diseñador UX/UI (Junior): $58 por hora.
+    * Tester (Junior): $66 por hora.
+        * Integrantes: 
+            * Adrián Vázquez
+            * Héctor Barrera
+            * Javier Ortiz
+
+    * Diseñador UX/UI (Junior): $58 por hora. - 4 integrantes
+        * Integrantes: 
+            * Adriel Yerbes
+            * Aldar Gonzalez
+            * Greco Gachuz
+            * Rubén Pérez
 
 * **Caso 2: Desarrolladores Senior**
-    * Desarrollador Frontend (Senior): $154 - $270 por hora.
+    * Tester (Senior): $116 por hora.
     * Diseñador UX/UI (Senior): $150 por hora.
+
+Para obtener un costo aproximado del Sprint, requerimos otros datos como el salario de los empleados, dando como resultado las siguientes fórmulas: 
+
+Salario del empleado = (Sueldo por hora * total de horas)
+Costo del Sprint = Salario del empleado 1 + Salario del empleado 2 + ... Salario del empleado N
+
+Con los datos obtenidos, podemos definir un costo aproximado para este sprint, el cual seria: 
+
+Costo del Sprint: 
+| Integrante | Sueldo/hora | Total de horas | Salario |
+|------------|--------------|----------------|---------|
+| Adrián Vázquez | $66 | 5.5 hrs | $363 |
+| Héctor Barrera | $66 | 5.5 hrs | $363 |
+| Javier Ortiz | $66 | 5.5 hrs | $363 |
+| Adriel Yerbes | $58 | 5.5 hrs | $319 |
+| Aldar Gonzalez | $58 | 5.5 hrs | $319 |
+| Greco Gachuz | $58 | 5.5 hrs | $319 |
+| Rubén Pérez | $58 | 5.5 hrs | $319 |
+|||||
+|**Total:** | $430 | 38.5 hrs | $2,365 |
+
+Podemos concluir que el Sprint tendría un costo aproximado de $2,365 con Desarrolladores y Testers Junior en México según nuestros requerimientos y datos históricos encontrados.
 
 ## 4. Estimación del Tiempo:
 
@@ -51,12 +83,8 @@ Para este proyecto, tomando en cuenta que es nuestro primer acercamiento a la In
 
 ## Referencias para los Salarios:
 
-* “Sueldo: Junior Front End Developer En En 2023.” Glassdoor, 2023, https://www.glassdoor.com.mx/Sueldos/junior-front-end-developer-sueldo-SRCH_KO0,26.htm. Accessed 1 Dec. 2023.
+* “Sueldo: Tester En México En 2023.” Glassdoor, 2023, https://www.glassdoor.com.mx/Sueldos/tester-sueldo-SRCH_KO0,6.htm. Accessed 2 Dec. 2023.
 
 * Sueldo: Junior UX/UI Designer en en 2023. (2023). Glassdoor. https://www.glassdoor.com.mx/Sueldos/junior-ux-ui-designer-sueldo-SRCH_KO0,21.htm#:~:text=%C2%BFCu%C3%A1nto%20gana%20un%20Junior%20ux,de%20MXN%2421%2C949%20en%20M%C3%A9xico.
 
-* Sueldo: Senior Front End Developer en en 2023. (2023). Glassdoor. https://www.glassdoor.com.mx/Sueldos/senior-front-end-developer-sueldo-SRCH_KO0,26.htm
-
 * Sueldo: UX/UI Senior en en 2023. (2023). Glassdoor. https://www.glassdoor.com.mx/Sueldos/ux-ui-senior-sueldo-SRCH_KO0,12.htm
-
-‌

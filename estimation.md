@@ -38,12 +38,44 @@ Using an average of 8 hours for each CFP, we have estimated an approximate total
 Because we are carrying out this project as students, we cannot make a realistic cost estimate, since we are not employees and therefore do not receive remuneration, however, below we show 2 cases in the cost estimate based on the data historical records of these positions in Mexico, which are referenced at the end of this page.
 
 * **Case 1: Junior Developers**
-     * Frontend Developer (Junior): $54 - $87 per hour.
-     * UX/UI Designer (Junior): $58 per hour.
+     * Tester (Junior): $66 per hour.
+         * Members:
+             * Adrian Vazquez
+             * Hector Barrera
+             * Javier Ortiz
+
+     * UX/UI Designer (Junior): $58 per hour. - 4 members
+         * Members:
+             * Adriel Yerbes
+             * Aldar Gonzalez
+             * Greco Gachuz
+             * Ruben Perez
 
 * **Case 2: Senior Developers**
-     * Frontend Developer (Senior): $154 - $270 per hour.
+     * Tester (Senior): $116 per hour.
      * UX/UI Designer (Senior): $150 per hour.
+
+To obtain an approximate cost of the Sprint, we require other data such as employee salaries, resulting in the following formulas:
+
+Employee Salary = (Hourly Salary * Total Hours)
+Sprint Cost = Employee 1 Salary + Employee 2 Salary + ... Employee N Salary
+
+With the data obtained, we can define an approximate cost for this sprint, which would be:
+
+Sprint Cost:
+| Member | Salary/hour | Total hours | Salary |
+|---------|--------------|----------------|---- -----|
+| Adrián Vázquez | $66 | 5.5 hrs | $363 |
+| Hector Barrera | $66 | 5.5 hrs | $363 |
+| Javier Ortiz | $66 | 5.5 hrs | $363 |
+| Adriel Yerbes | $58 | 5.5 hrs | $319 |
+| Aldar Gonzalez | $58 | 5.5 hrs | $319 |
+| Greco Gachuz | $58 | 5.5 hrs | $319 |
+| Ruben Perez | $58 | 5.5 hrs | $319 |
+|||||
+|**Total:** | $430 | 38.5 hrs | $2,365 |
+
+We can conclude that the Sprint would have an approximate cost of $2,365 with Junior Developers and Testers in Mexico according to our requirements and historical data found.
 
 ## 4. Time Estimation:
 
@@ -51,10 +83,8 @@ For this project, taking into account that it is our first approach to Software 
 
 ## Salary References:
 
-* “Salary: Junior Front End Developer in 2023.” Glassdoor, 2023, https://www.glassdoor.com.mx/Sueldos/junior-front-end-developer-sueldo-SRCH_KO0,26.htm. Accessed 1 Dec. 2023.
+* “Salary: Tester In Mexico In 2023.” Glassdoor, 2023, https://www.glassdoor.com.mx/Sueldos/tester-sueldo-SRCH_KO0,6.htm. Accessed 2 Dec. 2023.
 
 * Salary: Junior UX/UI Designer in 2023. (2023). Glassdoor. https://www.glassdoor.com.mx/Sueldos/junior-ux-ui-designer-sueldo-SRCH_KO0,21.htm#:~:text=%C2%BFCu%C3%A1nto%20gana%20un%20Junior% 20ux, from%20MXN%2421%2C949%20in%20M%C3%A9xico.
-
-* Salary: Senior Front End Developer in 2023. (2023). Glassdoor. https://www.glassdoor.com.mx/Sueldos/senior-front-end-developer-sueldo-SRCH_KO0,26.htm
 
 * Salary: UX/UI Senior in 2023. (2023). Glassdoor. https://www.glassdoor.com.mx/Sueldos/ux-ui-senior-sueldo-SRCH_KO0,12.htm
