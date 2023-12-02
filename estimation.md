@@ -64,7 +64,7 @@ With the data obtained, we can define an approximate cost for this sprint, which
 
 Sprint Cost:
 | Member | Salary/hour | Total hours | Salary |
-|---------|--------------|----------------|---- -----|
+|---------|--------------|----------------|---------|
 | Adrián Vázquez | $66 | 5.5 hrs | $363 |
 | Hector Barrera | $66 | 5.5 hrs | $363 |
 | Javier Ortiz | $66 | 5.5 hrs | $363 |
