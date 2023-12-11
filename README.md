@@ -190,6 +190,23 @@ We first evaluate the best project ideas in a brainstorm. Afterwards, we organiz
 |                                                  |         |                       |                |
 | Specific skills                                  |         |                       |                |
 
+# Percentage Accumulation
+
+|  **Team member**    |**accumulated points**| **Accumulated percentage**   | **Accumulated percentage x 7**    |
+|--------------------------------------------------|---------|-----------------------|----------------|
+| Aldar Giovanni Gonzalez Duran | 4  |     14%    |    100%  | 
+|                                                  |         |                       |                |
+| Héctor Alejandro Barrera Carrillo| 4      |        14%    |       100%     |
+|                                                  |         |                       |                |
+|Greco Alejandro Gachuz Piña   | 4      |       14%    |      100%           | 
+|                                                  |         |                       |                |
+| Adriel Yerbes Díaz                        | 4      |      14%  |        100%   |
+|                                                  |         |                       |                |
+| Rubén Alejandro Pérez Zumárraga | 4       |  14%      |         100%   |
+|                                                  |         |                       |                |
+| Javier de Jesús Ortiz Miss                                  | 4       |    14% |     100%%       |
+|                                                  |         |                       |                |
+| Adrian Vazquez Martinez | 4 |  14%  |     100% |
 
 #
 <a Our presentation video id="item12"></a>
