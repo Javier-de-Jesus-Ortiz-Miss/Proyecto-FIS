@@ -17,7 +17,9 @@ All of the following tasks were done successfully during this sprint.
 | Adrián, Héctor and Aldo | Standardization | 1 each | 5% |
 | Adrián, Héctor and Aldo | Tests | 1 each | 5% |
 ||||
-| Total: || 20 | 100% |
+| Hector Barrera | Results and critic ||
+| Hector Barrera | Proces description and binnacle | 2 | 
+| Total: || 20 | 100% | CHECAR LUEGO DE QUE TODOS AGREGEN
 
 ## Percentage Accumulation
 |  **Team member**    |**Accumulated points**| **Accumulated percentage** |
