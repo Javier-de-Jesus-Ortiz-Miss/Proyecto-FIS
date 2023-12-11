@@ -20,3 +20,6 @@
 * **Comprehensive Solution:** The product clearly and specifically addresses the fundamental needs of people in the music industry, such as networking, finding job opportunities, and acquiring knowledge. Unlike existing platforms that may be limited in their reach, this consolidated approach helps people in the music industry progress their careers more holistically, providing integrated solutions to various aspects of their professional development.
 
 * **Agile contribution to local projects:** It is a window to the local music scene, since the results returned from people of the music industry are based on the city in which the user is located, opening up new musical projects for local people of the music industry.
+
+
+ ### [Return to Entrega-3](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-3)
