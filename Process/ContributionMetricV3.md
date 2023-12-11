@@ -20,7 +20,8 @@ All of the following tasks were done successfully during this sprint.
 | Hector Barrera | Results and critic |1 | |
 | Hector Barrera | Proces description and binnacle | 2 | 
 | Hector Barrera | Draw the presentation | 2 ||
-| Total: || 20 | 100% | CHECAR LUEGO DE QUE TODOS AGREGEN
+| Total: || 20 | 100% | 
+CHECAR LUEGO DE QUE TODOS AGREGEN
 
 ## Percentage Accumulation
 |  **Team member**    |**Accumulated points**| **Accumulated percentage** |
