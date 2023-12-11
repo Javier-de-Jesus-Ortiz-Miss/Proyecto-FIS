@@ -13,3 +13,5 @@ Validation and Detailed Design: In addition to prioritization, measures were imp
 Results and Benefits: The evolution resulted in more specific and comprehensive requirements, as well as a deeper understanding of how functionalities interact with each other. The second delivery represented a clearer and more focused version of the product, eliminating unnecessary complexity and consolidating its central purpose.
 
 Summary of Evolution: The product's evolution, from conception to the second delivery, was characterized by adaptation and simplification. Strategic decision-making allowed the team to refine and focus the product, ensuring that essential functionalities were developed more precisely and effectively. This evolutionary approach aligns with best development practices, where iteration and adaptation are crucial for building a successful, user-centered product.
+
+ ### [Return to Entrega-3](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-3)
