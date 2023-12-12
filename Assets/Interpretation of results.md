@@ -1,5 +1,6 @@
 # Results
 [Results](https://docs.google.com/spreadsheets/d/1N4xbgCHw-X48e6SKILR3_dAMmsM2LsAvBMu1JWOZSjM/edit?usp=sharing)
+[LINK TO Forms](https://docs.google.com/forms/d/1az-2WOu6tyGB380Xr7Yx8tzFPrhYPbLnAr4tBwOOL1Q/edit#responses)
 
 We chose our samble in the range of our public objective, being 18 the youngest and the oldest being 45, all of them being musicians. This was made in order to have a sample of people that properly represented our target audience. Users were briefed on the project's nature, with the following statement: “MusicHub es una aplicación de celular que busca conectar gente de la industria musical basándose en parámetros como ubicación, géneros y habilidades para que así puedan colaborar. De esta forma se busca impulsar la colaboración musical y brindar experiencias enriquecedoras a los usuarios” 
 Then the Figma prototype of our final interfaces was provided, allowing them to sign up. When they were on the home screen, they were given the first objective “Sending a match request to a user” and were instructed to carry it out slowly so we could register the number of steps it took, in order to compare it to the ideal steps. We also recorded how many questions they made and if they achieved it. After the objective was met the user returned to the test screen to carry out the following task.
