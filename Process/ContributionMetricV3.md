@@ -5,7 +5,7 @@ All of the following tasks were done successfully during this sprint.
 |  *Member*      |*Task* | *Value* | *Percent* |
 |------------------|---------|----|------------|
 | Adriel Yerbes Dias | Chat | 2 | 10% |
-| Javier Ortis Miss | Main Page | 2 | 10% |
+| Javier Ortiz Miss | Main Page | 2 | 10% |
 | Rubén Pérez Zumarraga | Profiles | 2 | 10% |
 | Aldar Gonzales Duran | Projects | 2 | 10% |
 | Adrian Vazquez Martinez | Log in | 2 | 10% |
@@ -20,6 +20,7 @@ All of the following tasks were done successfully during this sprint.
 | Hector Barrera | Results and critic |1 | |
 | Hector Barrera | Proces description and binnacle | 2 | 
 | Hector Barrera | Draw the presentation | 2 ||
+| Javier Ortiz   | Video edition         | 3 ||
 | Total: || 20 | 100% | 
 CHECAR LUEGO DE QUE TODOS AGREGEN
 
