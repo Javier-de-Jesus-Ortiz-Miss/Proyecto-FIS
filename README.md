@@ -20,6 +20,7 @@ In this document you will find the second delivery of project 1 in the subject o
   * [Process description](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-3/Process/ProcessDescription_V3.md)
   * [Binnacle](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-3/Process/Binnacle_V3.md)
   * [Individual Contribution Metric](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-3/Process/ContributionMetricV3.md)
+  * [Global Individual Contribution](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-3/Process/IndividualContribution.md)
 * [Our presentation video](https://www.youtube.com/watch?v=3drG-jWEckw)
 * [Competencies](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/blob/entrega-3/Process/competenciesV3.md)
 * [Product](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-3/Product)
