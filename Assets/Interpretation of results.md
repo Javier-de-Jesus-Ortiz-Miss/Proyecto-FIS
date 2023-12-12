@@ -1,5 +1,6 @@
 # Results
 [Results](https://docs.google.com/spreadsheets/d/1N4xbgCHw-X48e6SKILR3_dAMmsM2LsAvBMu1JWOZSjM/edit?usp=sharing)
+
 [LINK TO Forms](https://docs.google.com/forms/d/1az-2WOu6tyGB380Xr7Yx8tzFPrhYPbLnAr4tBwOOL1Q/edit#responses)
 
 We chose our samble in the range of our public objective, being 18 the youngest and the oldest being 45, all of them being musicians. This was made in order to have a sample of people that properly represented our target audience. Users were briefed on the project's nature, with the following statement: “MusicHub es una aplicación de celular que busca conectar gente de la industria musical basándose en parámetros como ubicación, géneros y habilidades para que así puedan colaborar. De esta forma se busca impulsar la colaboración musical y brindar experiencias enriquecedoras a los usuarios” 
@@ -24,3 +25,5 @@ When conducting the tests, we aimed to have a range of ages, with our youngest u
 * The average difference between the steps taken and the ideal steps was 4, indicating that the interfaces were intuitive for the users.
 
 The primary questions that arose and commentaries regarding possible improvements centered around the objective of accepting a match request, this was also the objective which had the biggest difference between and ideal steps and the number of steps the users carried out, with a total difference of 17, (2.4 per user). As a potential improvement for the project, it would be beneficial to make the notification section more prominent, possibly having a tab dedicated to it, since the way it is now it isn’t obvious that notifications are in the same section as the chat and being able to easily accept match requests is fundamental to our app. Additionally, there wasn't a significant difference in results among participants of different ages, leading to the conclusion that the system is usable for individuals within those age ranges.
+
+ ### [Return to Entrega-3](https://github.com/Javier-de-Jesus-Ortiz-Miss/Proyecto-FIS/tree/entrega-3)
