@@ -1,5 +1,5 @@
-| Sprint | Meeting Day | Objective | Activities | Responsible | Deadline | Results |
-| ------- | ------------- | ------------- | ------------- | ------- | ------------ | -- |
+| Sprint | Meeting Day | Objective | Activities | Responsible | Deadline |
+| ------- | ------------- | ------------- | ------------- | ------- | ------------ | 
 | Sprint1 06/11/23-16/11/23 | 10/11/23 | Define with the team the meeting and activity delivery days, as well as assign the initial tasks with the goal of improving interface fidelity | Planning and improving interface fidelity | Ruben and Hector | 15/11/23 | |
 | | 15/11/23 | Verify the progress made and make necessary corrections | Progress verification and corrections | Hector | 16/11/23 | |
 | Sprint2 17/11/23-23/11/23 | 17/11/23 | Perform the second task assignment with the goal of standardizing user tests, adding visual elements to interfaces, and creating their flow | Task assignment, improving interfaces, standardizing tests, and creating interface flow | Adriel, Hector, and Ruben | 22/11/23 | |
